@@ -1,5 +1,3 @@
-# Foundations of Data Analysis
-
 ## Description
 
 This course is an introduction to the foundations behind modern data analysis
