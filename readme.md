@@ -1,4 +1,4 @@
-% FoDA | Home
+<head><title>FoDA | Home</title></head>
 
 ## Description
 
