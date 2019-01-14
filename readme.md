@@ -1,4 +1,6 @@
-<head><title>FoDA | Home</title></head>
+---
+title: "FoDA | Home"
+---
 
 ## Description
 
