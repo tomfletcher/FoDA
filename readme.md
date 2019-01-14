@@ -1,9 +1,3 @@
-<nav class="topnav" role="navigation" >
-  <a class="active" href="{{ site.baseurl }}/">Home</a>
-  <a href="{{ site.baseurl }}/schedule.html">Schedule</a>
-  <a href="{{ site.baseurl }}/FoDA-syllabus.pdf">Syllabus</a>
-</nav>
-
 ## Description
 
 This course is an introduction to the foundations behind modern data analysis
