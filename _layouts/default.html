@@ -41,10 +41,16 @@
     <!-- HEADER -->
     <div id="header_wrap" class="outer">
 
+        <nav class="topnav" role="navigation" >
+          <a class="active" href="{{ site.baseurl }}/">Home</a>
+          <a href="{{ site.baseurl }}/schedule.html">Schedule</a>
+          <a href="{{ site.baseurl }}/FoDA-syllabus.pdf">Syllabus</a>
+        </nav>
+
         <header class="inner">
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ page.url }}</h2>
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
       </header>
     </div>
