@@ -43,7 +43,7 @@
 
         <nav class="topnav" role="navigation" >
           <a {% if page.url == "/" %}class="active"{% endif %} href="{{ site.baseurl }}/">Home</a>
-          <a href="{{ site.baseurl }}/schedule.html">Schedule</a>
+          <a {% if page.url == "/schedule.html" %}class="active"{% endif %} href="{{ site.baseurl }}/schedule.html">Schedule</a>
           <a href="{{ site.baseurl }}/FoDA-syllabus.pdf">Syllabus</a>
         </nav>
 
