@@ -13,3 +13,5 @@ machine learning, in particular, deep neural networks.
 * **Location:** Thornton E316
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
 * **TA:** TBA
+
+test
