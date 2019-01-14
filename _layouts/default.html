@@ -42,7 +42,7 @@
     <div id="header_wrap" class="outer">
 
         <nav class="topnav" role="navigation" >
-          <a class="active" href="{{ site.baseurl }}/">Home</a>
+          <a {% if page.url = "/" %}class="active"{% endif %} href="{{ site.baseurl }}/">Home</a>
           <a href="{{ site.baseurl }}/schedule.html">Schedule</a>
           <a href="{{ site.baseurl }}/FoDA-syllabus.pdf">Syllabus</a>
         </nav>
