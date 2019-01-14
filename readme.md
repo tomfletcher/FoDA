@@ -1,3 +1,5 @@
+% FoDA | Home
+
 ## Description
 
 This course is an introduction to the foundations behind modern data analysis
