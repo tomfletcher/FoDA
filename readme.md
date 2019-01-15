@@ -12,7 +12,9 @@ machine learning, in particular, deep neural networks.
 * **Time:** Tue/Thu 12:30 - 1:45 PM
 * **Location:** Thornton E316
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
+  - Office Hours: TBA
 * **TA:** TBA
+  - Office Hours: TBA
 * **Textbook:** Some readings from [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
 * **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
