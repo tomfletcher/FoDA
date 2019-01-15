@@ -1,12 +1,10 @@
-# Policies
+## Policies
 
 **Getting Help.** Take advantage of the instructor and TA office hours. We will work hard to be accessible to students. Please send us email if you need to meet outside of office hours. Don't be shy if you don't understand something: come to office hours, send email, or speak up in class!
 
 **Announcements.** Important announcements, such as assignment corrections or deadline changes, will be sent to the class via the Collab announcements for this class. Make sure that you have setup Collab to send you announcements to an email address that you will check regularly, as they may be time-sensitive.
 
 **Anonymous Feedback.** Comments or suggestions are always welcome! Feel free to send them through the anonymous feedback tool in Collab.
-
-**Textbook.** None required
 
 **Grading.** The final course grade is based on the homework assignments (65% total), midterm exam (15%), and final exam (20%).
 

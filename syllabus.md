@@ -1,4 +1,4 @@
-# Syllabus
+## Syllabus
 
 The following topics will be covered, subject to changes. See the course web page for a detailed schedule.
 

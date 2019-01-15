@@ -1,4 +1,4 @@
-# Schedule
+## Schedule
 
 | Day     | Title / Notes                         | Reading | Homework |
 |---------|---------------------------------------|---------|----------|
@@ -17,7 +17,7 @@
 | Tu 2/26 |               |         |          |
 | Th 2/28 |               |         |          |
 | Tu 3/5  |               |         |          |
-| Th 3/7  |               |         |          |
+| Th 3/7  | **Midterm Exam**                      |         |          |
 | Tu 3/12 | *Spring Break*                        |         |          |
 | Th 3/14 | *Spring Break*                        |         |          |
 | Tu 3/19 |               |         |          |
@@ -33,3 +33,5 @@
 | Tu 4/23 |               |         |          |
 | Th 4/25 |               |         |          |
 | Tu 4/30 |               |         |          |
+|         |               |         |          |
+| Fr 5/10 | **Final Exam**                        |         |          |

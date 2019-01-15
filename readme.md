@@ -13,3 +13,9 @@ machine learning, in particular, deep neural networks.
 * **Location:** Thornton E316
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
 * **TA:** TBA
+* **Textbook:** Some readings from [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
+* **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
+* **Software:** All homeworks will be done in [Jupyter](https://jupyter.org)
+
+## Acknowledgement
+This class was inspired by Jeff Phillips' University of Utah course, [CS 4964: Foundations of Data Analysis](http://www.cs.utah.edu/~jeffp/teaching/FoDA.html)
