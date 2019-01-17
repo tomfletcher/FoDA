@@ -1,9 +1,9 @@
 ## Schedule
 
-| Day     | Title / Notes                         | Reading | Homework |
-|---------|---------------------------------------|---------|----------|
-| Tu 1/15 | Introduction                          |         |          |
-| Th 1/17 | Basic probability                     |         |          |
+| Day     | Title / Notes                                           | Reading | Homework |
+|---------|---------------------------------------------------------|---------|----------|
+| Tu 1/15 | [lectures/L01-Introduction.pdf](Introduction)           |         |          |
+| Th 1/17 | [lectures/L02-ProbabilityBasics.pdf](Basic probability) |         |          |
 | Tu 1/22 | Conditional Probability               |         |          |
 | Th 1/24 | Bayes' Rule                           |         |          |
 | Tu 1/29 | Bayesian Logic and Prediction         |         |          |
