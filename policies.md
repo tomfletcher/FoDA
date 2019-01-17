@@ -16,6 +16,21 @@ Homeworks are due by 11:59 PM on the due date. Late assignments will receive a 1
 
 If you believe there is an error in grading (homeworks or exams), you may request a regrading within one week of receiving your grade. Requests must be made in writing by email, explaining clearly why you think there was an error in your grade.
 
+**Working Together.** You are welcome to discuss the concepts in a homework assignment with
+your fellow classmates. However, you must develop and write up your own solutions. Do not read
+another person's answers or code, and do not show your answers or code to anyone else. Presenting
+someone else's solutions as your own will be considered cheating.
+
+You are welcome to use any online sources for learning concepts, example
+problems, programming tips, etc. However, posting homework questions on internet
+forums, or finding answers to specific questions from the internet, is not
+allowed and is considered cheating.
+
+There must be no collaboration on the midterm or final exam.
+
+You should be familiar with the UVA [https://honor.virginia.edu/](Honor Code). If a student
+is caught cheating on a homework or exam, they will be reported to the Honor Committee.
+
 **Students with disabilities or learning needs.**
 It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center to discuss a range of options to removing barriers in this course, including official accommodations. Please visit their website for information on this process and to apply for services online: https://www.studenthealth.virginia.edu/sdac. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
 
