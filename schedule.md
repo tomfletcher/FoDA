@@ -1,10 +1,10 @@
 ## Schedule
 
-| Day     | Title / Notes                                           | Reading       | Homework |
-|---------|---------------------------------------------------------|---------------|----------|
-| Tu 1/15 | [Introduction](lectures/L01-Introduction.pdf)           |               |          |
-| Th 1/17 | [Basic probability](lectures/L02-ProbabilityBasics.pdf) | M4D Chapter 1 |          |
-| Tu 1/22 | Conditional Probability               |         |          |
+| Day     | Title / Notes                                                      | Reading       | Homework |
+|---------|--------------------------------------------------------------------|---------------|----------|
+| Tu 1/15 | [Introduction](lectures/L01-Introduction.pdf)                      |               |          |
+| Th 1/17 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1 |          |
+| Tu 1/22 | [Conditional Probability](lectures/L03-ConditionalProbability.pdf) |               |          |
 | Th 1/24 | Bayes' Rule                           |         |          |
 | Tu 1/29 | Bayesian Logic and Prediction         |         |          |
 | Th 1/31 |               |         |          |
