@@ -6,8 +6,8 @@
 | Th 1/17 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1 |                                       |
 | Tu 1/22 | [Conditional Probability](lectures/L03-ConditionalProbability.pdf) |               |                                       |
 | Th 1/24 | [Bayes' Rule](lectures/L04-BayesRule.pdf)                          |               | [HW 1](homeworks/hw1.pdf), Due Th 2/7 |
-| Tu 1/29 | Bayesian Logic and Prediction         |         |          |
-| Th 1/31 |               |         |          |
+| Tu 1/29 | [Classification and Naive Bayes](lectures/L05-NaiveBayes.pdf)      | [Example Code](examples/SimpleDataPlots.ipynb)        |       |
+| Th 1/31 | Bayesian Logic              |         |          |
 | Tu 2/5  |               |         |          |
 | Th 2/7  |               |         | **HW 1 Due**  |
 | Tu 2/12 |               |         |          |
