@@ -15,7 +15,7 @@ machine learning, in particular, deep neural networks.
   - Office Hours: Wednesdays 11 am - 12 noon, after class
   - Office: Rice 306
 * **TA:** Oindrila Ghosh (og7ut *AT* virginia *DOT* edu)
-  - Office Hours: Mondays and Wednesdays 1:30 - 3 pm, Tuesdays 11 am - 12 noon
+  - Office Hours: Mondays and Wednesdays 1:30 - 3 pm, Tuesdays 3:30 - 4:30pm
   - Office: Rice 436
 * **Textbook:** Some readings from [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
