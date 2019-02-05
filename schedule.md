@@ -8,8 +8,8 @@
 | Th 1/24 | [Bayes' Rule](lectures/L04-BayesRule.pdf)                          |               | [HW 1](homeworks/hw1.pdf), Due Th 2/7 <br> [Dementia Data for Problem #5](homeworks/OASIS-hippocampus.csv) |
 | Tu 1/29 | [Classification and Naive Bayes](lectures/L05-NaiveBayes.pdf) <br> [Example Code](examples/SimpleDataPlots.ipynb)     |        |       |
 | Th 1/31 | Bayesian Logic              |         |          |
-| Tu 2/5  |               |         |          |
-| Th 2/7  |               |         | **HW 1 Due**  |
+| Tu 2/5  | [Maximum Likelihood Estimation](lectures/L06-MaximumLikelihoodEstimation.html) |         |          |
+| Th 2/7  | Bayesian Estimation        |         | **HW 1 Due**  |
 | Tu 2/12 |               |         |          |
 | Th 2/14 |               |         |          |
 | Tu 2/19 |               |         |          |
