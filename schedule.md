@@ -10,8 +10,8 @@
 | Th 1/31 | Bayesian Logic              |         |          |
 | Tu 2/5  | [Maximum Likelihood Estimation](lectures/L06-MaximumLikelihoodEstimation.html) |         |          |
 | Th 2/7  | [Bayesian Estimation](lectures/L07-BayesianEstimation.pdf)        |         | **HW 1 Due**  |
-| Tu 2/12 |               |         |          |
-| Th 2/14 |               |         |          |
+| Tu 2/12 | [Hypothesis Testing: Fisher Exact Test]{lectures/L08-HypothesisTesting-FisherTest.pdf} |         |          |
+| Th 2/14 | Hypothesis Testing: Bayesian Approaches |         |          |
 | Tu 2/19 |               |         |          |
 | Th 2/21 |               |         |          |
 | Tu 2/26 |               |         |          |
