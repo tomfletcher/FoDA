@@ -11,12 +11,12 @@
 | Tu 2/5  | [Maximum Likelihood Estimation](lectures/L06-MaximumLikelihoodEstimation.html) |         |          |
 | Th 2/7  | [Bayesian Estimation](lectures/L07-BayesianEstimation.pdf)        |         | **HW 1 Due**  |
 | Tu 2/12 | [Hypothesis Testing: Fisher Exact Test](lectures/L08-HypothesisTesting-FisherTest.pdf) |         |          |
-| Th 2/14 | Hypothesis Testing: Bayesian Approaches |         |          |
-| Tu 2/19 |               |         |          |
-| Th 2/21 |               |         |          |
-| Tu 2/26 |               |         |          |
-| Th 2/28 |               |         |          |
-| Tu 3/5  |               |         |          |
+| Th 2/14 | Hypothesis Testing: Bayesian Approaches |         | [HW 2](homeworks/hw2.pdf), Due Tu 2/26         |
+| Tu 2/19 | Linear Algebra Basics: Vectors              |         |          |
+| Th 2/21 | Linear Regression              |         |          |
+| Tu 2/26 | Linear Algebra Basics: Matrices              |         | **HW 2 Due**         |
+| Th 2/28 | Singular Value Decomposition              |         |          |
+| Tu 3/5  | Dimensionality Reduction              |         |          |
 | Th 3/7  | **Midterm Exam**                      |         |          |
 | Tu 3/12 | *Spring Break*                        |         |          |
 | Th 3/14 | *Spring Break*                        |         |          |
