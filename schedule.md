@@ -11,7 +11,7 @@
 | Tu 2/5  | [Maximum Likelihood Estimation](lectures/L06-MaximumLikelihoodEstimation.html) |         |          |
 | Th 2/7  | [Bayesian Estimation](lectures/L07-BayesianEstimation.pdf)        |         | **HW 1 Due**  |
 | Tu 2/12 | [Hypothesis Testing: Fisher Exact Test](lectures/L08-HypothesisTesting-FisherTest.pdf) |         |          |
-| Th 2/14 | Hypothesis Testing: Bayesian Approaches |         | [HW 2](homeworks/hw2.pdf), Due Tu 2/26         |
+| Th 2/14 | [Hypothesis Testing: Bayesian Approaches](lectures/L09-BayesianHypothesisTests.html) |         | [HW 2](homeworks/hw2.pdf), Due Tu 2/26         |
 | Tu 2/19 | Linear Algebra Basics: Vectors              |         |          |
 | Th 2/21 | Linear Regression              |         |          |
 | Tu 2/26 | Linear Algebra Basics: Matrices              |         | **HW 2 Due**         |
