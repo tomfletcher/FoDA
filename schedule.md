@@ -13,7 +13,7 @@
 | Tu 2/12 | [Hypothesis Testing: Fisher Exact Test](lectures/L08-HypothesisTesting-FisherTest.pdf) |         |          |
 | Th 2/14 | [Hypothesis Testing: Bayesian Approaches](lectures/L09-BayesianHypothesisTests.html) |         | [HW 2](homeworks/hw2.pdf), Due Tu 2/26         |
 | Tu 2/19 | [Linear Algebra Basics: Vectors](lectures/L10-Vectors.pdf)              | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
-| Th 2/21 | Linear Regression              |         |          |
+| Th 2/21 | [Linear Regression](lectures/L11-LinearRegression.pdf)<br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
 | Tu 2/26 | Linear Algebra Basics: Matrices              |         | **HW 2 Due**         |
 | Th 2/28 | Singular Value Decomposition              |         |          |
 | Tu 3/5  | Dimensionality Reduction              |         |          |
