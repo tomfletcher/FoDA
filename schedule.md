@@ -15,9 +15,9 @@
 | Tu 2/19 | [Linear Algebra Basics: Vectors](lectures/L10-Vectors.pdf)              | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
 | Th 2/21 | [Linear Regression](lectures/L11-LinearRegression.pdf)<br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
 | Tu 2/26 | [Linear Algebra Basics: Matrices](lectures/L12-Matrices.pdf)              |         | [HW 3](homeworks/hw3.pdf), Due Tu 3/5<br>[Old Faithful data](homeworks/faithful.csv)<br>**HW 2 Due**         |
-| Th 2/28 | Multilinear Regression<br>(slides continued)  |         |          |
-| Tu 3/5  | Singular Value Decomposition     |         |  **HW 3 Due**   |
-| Th 3/7  | **Midterm Exam**<br>[Exam Guide](MidtermGuide.pdf)    |         |          |
+| Th 2/28 | Multiple Linear Regression<br>(slides continued)  |         |          |
+| Tu 3/5  | [Multiple Linear Regression in Practice](MultipleLinearRegression.ipynb)  |         |  **HW 3 Due**   |
+| Th 3/7  | **Midterm Exam**<br>[Exam Guide](MidtermGuide.pdf)<br>[Exam Guide Solutions](MidtermGuideSolutions.pdf)    |         |          |
 | Tu 3/12 | *Spring Break*                        |         |          |
 | Th 3/14 | *Spring Break*                        |         |          |
 | Tu 3/19 |               |         |          |
