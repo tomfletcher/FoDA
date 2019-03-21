@@ -21,7 +21,7 @@
 | Tu 3/12 | *Spring Break*                        |         |          |
 | Th 3/14 | *Spring Break*                        |         |          |
 | Tu 3/19 | [Multiple Linear Regression in Practice](examples/MultipleLinearRegression.ipynb) |         |          |
-| Th 3/21 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2) |          |
+| Th 3/21 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) |          |
 | Tu 3/26 | SVD, cont.    |         |          |
 | Th 3/28 | Principal Component Analysis |         |          |
 | Tu 4/2  | Canonical Correlation Analysis |         |          |
