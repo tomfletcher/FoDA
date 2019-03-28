@@ -23,7 +23,7 @@
 | Tu 3/19 | [Multiple Linear Regression in Practice](examples/MultipleLinearRegression.ipynb) |         |          |
 | Th 3/21 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) |          |
 | Tu 3/26 | SVD, cont.<br>[Python example](examples/SVD.ipynb) | [HW 4](homeworks/hw4.pdf), Due Th 4/4<br>[hand1.dat](homeworks/hw4/hand1.dat), [hand2.dat](homeworks/hw4/hand2.dat) |          |
-| Th 3/28 | Principal Component Analysis |         |          |
+| Th 3/28 | [Principal Component Analysis](lectures/L15-PCA.pdf) |         |          |
 | Tu 4/2  | Canonical Correlation Analysis |         |          |
 | Th 4/4  | Logistic Regression |         |          |
 | Tu 4/9  | Intro to Neural Networks |         |          |
