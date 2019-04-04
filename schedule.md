@@ -24,8 +24,8 @@
 | Th 3/21 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) |          |
 | Tu 3/26 | SVD, cont.<br>[Python example](examples/SVD.ipynb) |  | [HW 4](homeworks/hw4.pdf), Due Tu 4/9<br>[hand1.dat](homeworks/hw4/hand1.dat), [hand2.dat](homeworks/hw4/hand2.dat), [all-hands.dat](homeworks/hw4/all-hands.dat) |
 | Th 3/28 | [Principal Component Analysis](lectures/L15-PCA.pdf) |         |          |
-| Tu 4/2  | Canonical Correlation Analysis |         |          |
-| Th 4/4  | CCA, cont. |         |          |
+| Tu 4/2  | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |          |
+| Th 4/4  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |          |
 | Tu 4/9  | Logistic Regression |         | **HW 4 Due** |
 | Th 4/11 | Intro to Neural Networks |         |          |
 | Tu 4/16 | Gradient Descent Optimization |         |          |
