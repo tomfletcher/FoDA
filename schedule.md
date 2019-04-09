@@ -26,11 +26,11 @@
 | Th 3/28 | [Principal Component Analysis](lectures/L15-PCA.pdf) |         |          |
 | Tu 4/2  | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |          |
 | Th 4/4  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |          |
-| Tu 4/9  | Logistic Regression |         | **HW 4 Due** |
+| Tu 4/9  | [Logistic Regression](L17-LogisticRegression.pdf) |         | [HW 5](homeworks/hw5.pdf), Due Tu 4/23<br>**HW 4 Due** |
 | Th 4/11 | Intro to Neural Networks |         |          |
 | Tu 4/16 | Gradient Descent Optimization |         |          |
 | Th 4/18 | Convolutional Neural Networks |         |          |
-| Tu 4/23 | CNNs, cont. |         |          |
+| Tu 4/23 | CNNs, cont. |         | **HW 5 Due** |
 | Th 4/25 | Autoencoders |         |          |
 | Tu 4/30 | Generative Adversarial Networks |         |          |
 |         |               |         |          |
