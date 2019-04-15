@@ -7,7 +7,7 @@ x_test = data['x_test']
 y_test = data['y_test']
 
 
-The x data are 28x28 images, stored as 3D arrays. The first index tells you which image. The second and third index are the pixel coordinate. So, you will want to flatten these into row vectors in a data matrix. Use the following Python code:
+The x data are 28x28 images, stored as a 3D array. The first index tells you which image. The second and third index are the pixel coordinate. So, you will want to flatten these into row vectors into a 2D data matrix. Use the "reshape()" function to do this:
 
 n = x_train.shape[0]
 X = x_train.reshape((n, 28*28))
