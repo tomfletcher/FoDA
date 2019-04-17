@@ -28,9 +28,9 @@
 | Th 4/4  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |          |
 | Tu 4/9  | [Logistic Regression](lectures/L17-LogisticRegression.pdf) |         | [HW 5](homeworks/hw5.pdf), Due Tu 4/23<br>Data: [mnist.npz](homeworks/mnist.npz) ([readme.txt](homeworks/readme.txt))<br>**HW 4 Due** |
 | Th 4/11 | Intro to Neural Networks |         |          |
-| Tu 4/16 | Gradient Descent Optimization |         |          |
-| Th 4/18 | Convolutional Neural Networks |         |          |
-| Tu 4/23 | CNNs, cont. |         | **HW 5 Due** |
+| Tu 4/16 | Perceptron | M4D Chapter 9 |          |
+| Th 4/18 | Backpropagation |         |          |
+| Tu 4/23 | Convolutional Neural Networks |         | **HW 5 Due** |
 | Th 4/25 | Autoencoders |         |          |
 | Tu 4/30 | Generative Adversarial Networks |         |          |
 |         |               |         |          |
