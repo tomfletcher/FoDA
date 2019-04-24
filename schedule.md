@@ -30,7 +30,7 @@
 | Th 4/11 | Intro to Neural Networks |         |          |
 | Tu 4/16 | Perceptron | M4D Chapter 9 |          |
 | Th 4/18 | Backpropagation |         |          |
-| Tu 4/23 | Convolutional Neural Networks |         | **HW 5 Due** |
+| Tu 4/23 | [Backpropagation, Softmax](lectures/L20-Backprop.pdf) |         | **HW 5 Due** |
 | Th 4/25 | Autoencoders |         |          |
 | Tu 4/30 | Generative Adversarial Networks |         |          |
 |         |               |         |          |
