@@ -31,7 +31,7 @@
 | Tu 4/16 | Perceptron | M4D Chapter 9 |          |
 | Th 4/18 | Backpropagation |         |          |
 | Tu 4/23 | [Backpropagation, Softmax](lectures/L20-Backprop.pdf) |         | **HW 5 Due** |
-| Th 4/25 | Autoencoders |         |          |
+| Th 4/25 | [Convolution](lectures/L21-Convolution.pdf) |         | [Final](final.pdf)<br>**Due Fr 5/10** |
 | Tu 4/30 | Generative Adversarial Networks |         |          |
 |         |               |         |          |
-| Fr 5/10 | **(Take-home) Final Exam Due**                        |         |          |
+| Fr 5/10 | **(Take-home) Final Exam Due**             |         |          |
