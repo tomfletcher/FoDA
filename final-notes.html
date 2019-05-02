@@ -12616,7 +12616,8 @@ $$\ell \left( \hat{y}, y \right) = \frac{1}{n} \sum_{i=1}^n y_i \ln (\hat{y}_i) 
 <ol>
 <li><p>The first term is this:
 $$\nabla_Z \, \ell = \frac{1}{n}  \left[(y - 1) + \frac{\exp\left(-Z W^{(2)}\right)}{1 + \exp\left(-Z W^{(2)}\right)}\right] W^{(2)T}.$$
-<strong>Note:</strong> the square brackets term is the same $n \times 1$ vector as in the previous gradient equation. The $W^{(2)T}$ term is the second weight vector <strong>transposed</strong>, that is, $1 \times m$. So, this entire term will be an $n \times m$ matrix.</p>
+<strong>Note:</strong> the square brackets term is the same $n \times 1$ vector as in the previous gradient equation. The $W^{(2)T}$ term is the second weight vector <strong>transposed</strong>, that is, $1 \times m$. So, this entire term will be an $n \times m$ matrix.<br>
+<strong>Note 2:</strong> The $W^{(2)}$ in this equation is <strong>without</strong> the intercept term, so it is $m$ dimensional, not $m+1$ dimensional.</p>
 </li>
 <li><p>The second term is this:
 $$\frac{d Z_{kl}}{d W^{(1)}_{ij}} = \left[ \phi'\left(X W^{(1)}\right) \right]_{kl} D_{ij} g_{kl}.$$
