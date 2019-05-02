@@ -12638,18 +12638,19 @@ $$
 \begin{aligned}
 \left[ \nabla_{W^{(1)}} \, \ell \right]_{ij} &amp;= \sum_{k=1}^n \left[ \nabla_Z \, \ell \right]_{kj} \frac{dZ_{kj}}{dW_{ij}}\\
 &amp;= \sum_{k=1}^n \left[ \nabla_Z \, \ell \right]_{kj} \left[ \phi'\left(X W^{(1)}\right) \right]_{kj} X_{ki}\\
-&amp;= \sum_{k=1}^n \left( \left[ \nabla_Z \, \ell \right] * X_{ki} \right) \phi'\left(X W^{(1)} \right)_{kj} \\
 \end{aligned}
 $$</p>
-<p>Now, handling this $k$ index is the tricky part. The sum almost looks like a matrix multiplication of the second and third terms -- but there is the first term also with a $k$ index messing that up! To handle this, let's define the following operation between a $d_1 \times d_2$ matrix $A$ and a $d_2$-vector $v$:</p>
-<p>$$v \star A = \begin{pmatrix} A_{11} v_1 &amp; A_{12} v_2 &amp; \cdots &amp; A_{1d_2} v_{d_2}\\ A_{21} v_1 &amp; A_{22} v_2 &amp; \cdot &amp; A_{2d_2} v_{d_2}\\ \vdots &amp; \vdots &amp; &amp; \vdots\\ A_{d_1 1} v_1 &amp; A_{d_1 2} v_2 &amp; \cdots &amp; A_{d_1 d_2} v_{d_2}\end{pmatrix}$$</p>
-<p>Notice what this is doing: each row of $A$ is multiplied element-by-element by the corresponding entries of $v$. In code, you can use <code>np.repeat</code> to repeat $v$ as rows in a matrix the same size as $A$, then use the multiply operator (yes, just <code>*</code> this time!) to multiply the $A$ and repeated $v$ matrix element-by-element.</p>
+<p>Now, handling this $k$ index is the tricky part. The sum almost looks like a matrix multiplication of the second and third terms -- but there is the first term also with a $k$ index messing that up! To handle this, let's define the following operation between a $d_1 \times d_2$ matrix $A$ and a $d_1 \times d_2$ matrix $B$:</p>
+<p>$$A \star B = \begin{pmatrix} A_{11} B_{11} &amp; A_{12} B_{12} &amp; \cdots &amp; A_{1d_2} B_{1d_2}\\ A_{21} B_{21} &amp; A_{22} B_{22} &amp; \cdot &amp; A_{2d_2} B_{2d_2}\\ \vdots &amp; \vdots &amp; &amp; \vdots\\ A_{d_1 1} B_{d_1 1} &amp; A_{d_1 2} B_{d_1 2} &amp; \cdots &amp; A_{d_1 d_2} B_{d_1 d_2}\end{pmatrix}$$</p>
+<p>Notice what this is doing: each entry of $A$ is multiplied element-by-element by the corresponding entries of $B$. In code, you can use the multiply operator (yes, just <code>*</code> this time!) to multiply the $A$ and $B$ matrix element-by-element.</p>
 <p><strong>Final Equation:</strong> Putting this all together, the matrix version of the gradient equation looks like the following (no indices!):</p>
-<p>$$ \nabla_{W^{(1)}} \, \ell = \left( \left[ \nabla_Z \, \ell \right] \star X^T \right) \phi'\left(X W^{(1)} \right) $$</p>
+<p>$$ \nabla_{W^{(1)}} \, \ell = X^T \left( \left[ \nabla_Z \, \ell \right] \star \phi'\left(X W^{(1)} \right) \right)$$</p>
 <p>When you implment this, again be <strong>very careful that the dimensions of your matrices</strong> are coming out correctly (print out their shape as you are debugging). The terms about have the following dimensions:</p>
 <p>$$
-\begin{aligned}\nabla_{W^{(1)}} \, \ell &amp; : (d + 1) \times m \\
-\left[ \nabla_Z \, \ell \right] \star X^T &amp; : (d + 1) \times n\\
+\begin{aligned}
+\nabla_{W^{(1)}} \, \ell &amp; : (d + 1) \times m \\
+X^T &amp; : (d + 1) \times n\\
+\nabla_Z \, \ell &amp; : n \times m\\
 \phi'\left(X W^{(1)} \right) &amp; : n \times m
 \end{aligned}
 $$</p>
