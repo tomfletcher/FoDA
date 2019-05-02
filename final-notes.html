@@ -12620,7 +12620,7 @@ $$\nabla_Z \, \ell = \frac{1}{n}  \left[(y - 1) + \frac{\exp\left(-Z W^{(2)}\rig
 </li>
 <li><p>The second term is this:
 $$\frac{d Z_{kl}}{d W^{(1)}_{ij}} = \left[ \phi'\left(X W^{(1)}\right) \right]_{kl} D_{ij} g_{kl}.$$
-$$D_{ij} g_{kl} = \begin{cases} X_{ki} &amp; \text{if $l = t$}\\ 0 &amp; \text{if $l \neq t$}\end{cases}$$
+$$D_{ij} g_{kl} = \begin{cases} X_{ki} &amp; \text{if $l = j$}\\ 0 &amp; \text{if $l \neq j$}\end{cases}$$
 <strong>Note:</strong> $\phi'\left(X W^{(1)}\right)$ means to apply the function $\phi'$ to every element of the matrix $X W^{(1)}$. The result is a $n \times m$ matrix.</p>
 </li>
 </ol>
@@ -12632,7 +12632,7 @@ $$D_{ij} g_{kl} = \begin{cases} X_{ki} &amp; \text{if $l = t$}\\ 0 &amp; \text{i
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h3 id="Pseudo-code-for-Gradient-Ascent-Loop">Pseudo-code for Gradient Ascent Loop<a class="anchor-link" href="#Pseudo-code-for-Gradient-Ascent-Loop">&#182;</a></h3><p>Putting the whole thing together, you will have the following algorithm for gradient ascent. (Here I am assuming that <code>X</code> has a column of ones already.)</p>
+<h2 id="Pseudo-code-for-Gradient-Ascent-Loop">Pseudo-code for Gradient Ascent Loop<a class="anchor-link" href="#Pseudo-code-for-Gradient-Ascent-Loop">&#182;</a></h2><p>Putting the whole thing together, you will have the following algorithm for gradient ascent. (Here I am assuming that <code>X</code> has a column of ones already.)</p>
 
 <pre><code>while iter &lt; maxIter:
     Z = layer1(X, W1)
@@ -12642,7 +12642,7 @@ $$D_{ij} g_{kl} = \begin{cases} X_{ki} &amp; \text{if $l = t$}\\ 0 &amp; \text{i
     grad2 = gradW2(W2, Z, y)
     W2 = W2 + delta2 * grad2
 
-    grad1 = gradW1(W1, X, y)
+    grad1 = gradW1(W1, W2, X, y)
     W1 = W1 + delta1 * grad1</code></pre>
 <p>Note: I've used two step sizes <code>delta1</code> and <code>delta2</code> to be most flexible, but you could try a single step size for both sets of weights and see if that works first. Also, for simplicity, I've just made the loop terminate after a maximum number of iterations, rather than see if both gradients fall below some $\epsilon$ threshold. Again, this is fine as long as you plot your log-likelihood and confirm it is converging.</p>
 
