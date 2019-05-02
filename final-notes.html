@@ -12632,6 +12632,35 @@ $$D_{ij} g_{kl} = \begin{cases} X_{ki} &amp; \text{if $l = j$}\\ 0 &amp; \text{i
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Simplified-$W^{(1)}$-gradient!">Simplified $W^{(1)}$ gradient!<a class="anchor-link" href="#Simplified-$W^{(1)}$-gradient!">&#182;</a></h3><p>The above gradient equations seem complicated and have a lot of indices $(i,j,k,l)$. A straight translation into code would involve a lot of loops. But you can do this all in Python without using any loops! I'm going to rewrite all of these equations using matrix operations that translate into just a few lines of Python code.</p>
+<p>Start by expanding all of the terms in the $W^{(1)}$ gradient. We can use the fact that $l = j$ in the $D_{ij} g_{kl}$ term, so the sum over $l$ is all zeroed out, except for the single term where $l = j$.
+$$
+\begin{aligned}
+\left[ \nabla_{W^{(1)}} \, \ell \right]_{ij} &amp;= \sum_{k=1}^n \left[ \nabla_Z \, \ell \right]_{kj} \frac{dZ_{kj}}{dW_{ij}}\\
+&amp;= \sum_{k=1}^n \left[ \nabla_Z \, \ell \right]_{kj} \left[ \phi'\left(X W^{(1)}\right) \right]_{kj} X_{ki}\\
+&amp;= \sum_{k=1}^n \left( \left[ \nabla_Z \, \ell \right] * X_{ki} \right) \phi'\left(X W^{(1)} \right)_{kj} \\
+\end{aligned}
+$$</p>
+<p>Now, handling this $k$ index is the tricky part. The sum almost looks like a matrix multiplication of the second and third terms -- but there is the first term also with a $k$ index messing that up! To handle this, let's define the following operation between a $d_1 \times d_2$ matrix $A$ and a $d_2$-vector $v$:</p>
+<p>$$v \star A = \begin{pmatrix} A_{11} v_1 &amp; A_{12} v_2 &amp; \cdots &amp; A_{1d_2} v_{d_2}\\ A_{21} v_1 &amp; A_{22} v_2 &amp; \cdot &amp; A_{2d_2} v_{d_2}\\ \vdots &amp; \vdots &amp; &amp; \vdots\\ A_{d_1 1} v_1 &amp; A_{d_1 2} v_2 &amp; \cdots &amp; A_{d_1 d_2} v_{d_2}\end{pmatrix}$$</p>
+<p>Notice what this is doing: each row of $A$ is multiplied element-by-element by the corresponding entries of $v$. In code, you can use <code>np.repeat</code> to repeat $v$ as rows in a matrix the same size as $A$, then use the multiply operator (yes, just <code>*</code> this time!) to multiply the $A$ and repeated $v$ matrix element-by-element.</p>
+<p>Putting this all together, the matrix version of the gradient equation looks like the following (no indices!):</p>
+<p>$$ \nabla_{W^{(1)}} \, \ell = \left( \left[ \nabla_Z \, \ell \right] \star X^T \right) \phi'\left(X W^{(1)} \right) $$</p>
+<p>When you implment this, again be <strong>very careful that the dimensions of your matrices</strong> are coming out correctly (print out their shape as you are debugging). The terms about have the following dimensions:</p>
+<p>$$
+\begin{aligned}\nabla_{W^{(1)}} \, \ell &amp; : (d + 1) \times m \\
+\left[ \nabla_Z \, \ell \right] \star X^T &amp; : (d + 1) \times n\\
+\phi'\left(X W^{(1)} \right) &amp; : n \times m
+\end{aligned}
+$$</p>
+
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Pseudo-code-for-Gradient-Ascent-Loop">Pseudo-code for Gradient Ascent Loop<a class="anchor-link" href="#Pseudo-code-for-Gradient-Ascent-Loop">&#182;</a></h2><p>Putting the whole thing together, you will have the following algorithm for gradient ascent. (Here I am assuming that <code>X</code> has a column of ones already.)</p>
 
 <pre><code>while iter &lt; maxIter:
