@@ -34,4 +34,4 @@
 | Th 4/25 | [Convolution](lectures/L21-Convolution.pdf) |         | [Final](homeworks/final.pdf)<br>**Due Fr 5/10** |
 | Tu 4/30 | Generative Adversarial Networks |         |          |
 |         |               |         |          |
-| Fr 5/10 | **(Take-home) Final Exam Due**             |         |          |
+| Fr 5/10 | **(Take-home) Final Exam Due**<br>[Final Implementation Notes](final-notes.html)             |         |          |
