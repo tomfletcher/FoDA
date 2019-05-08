@@ -12607,7 +12607,7 @@ AADAA4oyAAAA4AFFGQAAAPCAogwAAAB48P/qKNtpKp8AewAAAABJRU5ErkJggg==
 <p>where the <strong>log-likelihood</strong> is this:
 $$\ell \left( \hat{y}, y \right) = \frac{1}{n} \sum_{i=1}^n y_i \ln (\hat{y}_i) + (1 - y_i) \ln (1 - \hat{y}_i).$$</p>
 <p>This is equivalent to the equation we implemented in HW 5 for logistic regression. In matrix notation, this was:</p>
-<p>$$\ell \left(\hat{y}, y\right) = \frac{1}{n} \left\langle (y - 1), Z W^{(2)} \right\rangle + \frac{1}{n} \sum_{i=1}^n \ln\left(1 + \exp \left(-Z W^{(2)}\right)\right)$$</p>
+<p>$$\ell \left(\hat{y}, y\right) = \frac{1}{n} \left\langle (y - 1), Z W^{(2)} \right\rangle - \frac{1}{n} \sum_{i=1}^n \ln\left(1 + \exp \left(-Z W^{(2)}\right)\right)$$</p>
 <p><strong>Note:</strong> This takes $Z$, the hidden units, as input (as contrasted to logistic regression, which took $X$). So, you will have to call your <code>layer1</code> function to generate the $Z$ to pass to the log-likelihood. But you can use your previous code (or the code I gave you) for this <code>logLikelihood</code> function.</p>
 <h3 id="Gradient-with-respect-to-$W^{(2)}$">Gradient with respect to $W^{(2)}$<a class="anchor-link" href="#Gradient-with-respect-to-$W^{(2)}$">&#182;</a></h3><p>This is the same function we implemented for the gradient of $\beta$ in logistic regression. I'm calling this <code>grad2</code> in the algorithm below. Again, use your previous code (or mine)! Just replace the inputs $X$ with $Z$ and $\beta$ with $W^{(2)}$. In matrix notation, this is:</p>
 <p>$$\nabla_{W^{(2)}} \, \ell = \frac{1}{n} \left[(y - 1) + \frac{\exp\left(-Z W^{(2)}\right)}{1 + \exp\left(-Z W^{(2)}\right)}\right] Z$$</p>
