@@ -14,7 +14,7 @@
 | Th 2/13 | Hypothesis Testing: Bayesian Approaches |         | HW 2 (TBD), Due Tu 2/25         |
 | Tu 2/18 | Linear Algebra Basics: Vectors              | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
 | Th 2/20 | Linear Regression <br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
-| Tu 2/25 | Linear Algebra Basics: Matrices              |         | HW 3 (TBD), Due Tu 3/4<br <br>**HW 2 Due**         |
+| Tu 2/25 | Linear Algebra Basics: Matrices              |         | HW 3 (TBD), Due Tu 3/4<br> <br>**HW 2 Due**         |
 | Th 2/27 | Multiple Linear Regression<br>  |         |          |
 | Tu 3/4  | Exam Review  |         |  **HW 3 Due**   |
 | Th 3/6  | **Midterm Exam**<br> Exam Guide (TBD) <br> Exam Guide Solutions (TBD)    |         |          |
