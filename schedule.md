@@ -2,8 +2,8 @@
 
 | Day     | Title / Notes                                                      | Reading       | Homework                              |
 |---------|--------------------------------------------------------------------|---------------|---------------------------------------|
-| Tu 1/15 | [Introduction](lectures/L01-Introduction.pdf)                      |               |                                       |
-| Th 1/17 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1 |                                       |
+| Tu 1/15 | Introduction (lectures/L01-Introduction.pdf)                      |               |                                       |
+| Th 1/17 | Basic probability (lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1 |                                       |
 | Tu 1/22 | [Conditional Probability](lectures/L03-ConditionalProbability.pdf) |               |                                       |
 | Th 1/24 | [Bayes' Rule](lectures/L04-BayesRule.pdf)                          |               | [HW 1](homeworks/hw1.pdf), Due Th 2/7 <br> [Dementia Data for Problem #5](homeworks/OASIS-hippocampus.csv) |
 | Tu 1/29 | [Classification and Naive Bayes](lectures/L05-NaiveBayes.pdf) <br> [Example Code](examples/SimpleDataPlots.ipynb)     |        |       |
