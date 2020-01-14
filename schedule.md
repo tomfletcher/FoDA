@@ -2,7 +2,7 @@
 
 | Day     | Title / Notes                                                      | Reading       | Homework                              |
 |---------|--------------------------------------------------------------------|---------------|---------------------------------------|
-| Tu 1/14 | Introduction                    |               |                                       |
+| Tu 1/14 | [Introduction](lectures/L01-Introduction.pdf)                      |               |                                       |
 | Th 1/16 | Basic probability             | M4D Chapter 1 |                                       |
 | Tu 1/21 | Conditional Probability |               |                                       |
 | Th 1/23 | Bayes' Rule                         |               | HW 1 (TBD), Due Th 2/6 <br> |
