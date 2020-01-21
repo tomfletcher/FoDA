@@ -1,11 +1,11 @@
 ## Schedule
 
-| Day     | Title / Notes                                                      | Reading       | Homework                              |
-|---------|--------------------------------------------------------------------|---------------|---------------------------------------|
-| Tu 1/14 | [Introduction](lectures/L01-Introduction.pdf)                      |               |                                       |
-| Th 1/16 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)             | M4D Chapter 1 |                                       |
-| Tu 1/21 | Conditional Probability |               |                                       |
-| Th 1/23 | Bayes' Rule                         |               | HW 1 (TBD), Due Th 2/6 <br> |
+| Day     | Title / Notes                                                      | Reading         | Homework                              |
+|---------|--------------------------------------------------------------------|-----------------|---------------------------------------|
+| Tu 1/14 | [Introduction](lectures/L01-Introduction.pdf)                      |                 |                                       |
+| Th 1/16 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1   |                                       |
+| Tu 1/21 | [Conditional Probability](lectures/L03-ConditionalProbability.pdf) | M4D Chapter 1.2 |                                       |
+| Th 1/23 | Bayes' Rule                                                        |                 | HW 1 (TBD), Due Th 2/6 <br> |
 | Tu 1/28 | Classification and Naive Bayes <br> [Example Code](examples/SimpleDataPlots.ipynb)     |        |       |
 | Th 1/30 | Bayesian Logic              |         |          |
 | Tu 2/4  | Maximum Likelihood Estimation |         |          |
