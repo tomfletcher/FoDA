@@ -4,7 +4,7 @@
 |---------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
 | Tu 1/14 | [Introduction](lectures/L01-Introduction.pdf)                      |                 |                                            |
 | Th 1/16 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1   |                                            |
-| Tu 1/21 | [Conditional Probability](lectures/L03-ConditionalProbability.pdf) | M4D Chapter 1.2 |                                            |
+| Tu 1/21 | [Conditional Probability](lectures/L03-ConditionalProbability.pdf) [(slides)](lectures/L03-ConditionalProbability-slides.pdf) | M4D Chapter 1.2 |                                            |
 | Th 1/23 | [Bayes' Rule](lectures/L04-BayesRule.pdf)                          | M4D 1.6 - 1.8   | [HW 1](homeworks/hw1.pdf), Due Th 2/6 <br> |
 | Tu 1/28 | Classification and Naive Bayes <br> [Example Code](examples/SimpleDataPlots.ipynb)   |        |       |
 | Th 1/30 | Bayesian Logic              |         |          |
