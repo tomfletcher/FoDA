@@ -21,7 +21,7 @@ machine learning, in particular, deep neural networks.
      -- Office Hours: Wednesdays 03:30 - 05:30 PM (Rice 340) <br/>
   
      - Matt Lee (jl4wq *AT* virginia *DOT* edu) 
-     -- Office Hours: Fridays 02:00 - 04:00 PM (Rice 442)
+     -- Office Hours: Fridays 02:00 - 04:00 PM (Rice 340)
 
 * **Textbook:** Some readings from [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
