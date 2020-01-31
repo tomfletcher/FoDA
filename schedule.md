@@ -7,7 +7,7 @@
 | Tu 1/21 | [Conditional Probability](lectures/L03-ConditionalProbability.pdf) [(slides)](lectures/L03-ConditionalProbability-slides.pdf) | M4D Chapter 1.2 |                                            |
 | Th 1/23 | [Bayes' Rule](lectures/L04-BayesRule.pdf)                          | M4D 1.6 - 1.8   | [HW 1](homeworks/hw1.pdf), Due Th 2/6 <br> [hippocampus data](homeworks/OASIS-hippocampus.csv) |
 | Tu 1/28 | [Classification and Naive Bayes](lectures/L05-NaiveBayes.pdf) <br> [Example Code](examples/SimpleDataPlots.ipynb)   |        |       |
-| Th 1/30 | [K-means Clustering](lectures/L06-Clustering.pdf) [Class Notes](lectures/L06-Notes.pdf)           |         |          |
+| Th 1/30 | [K-means Clustering](lectures/L06-Clustering.pdf) <br> [Class Notes](lectures/L06-Notes.pdf)           |         |          |
 | Tu 2/4  | Maximum Likelihood Estimation |         |          |
 | Th 2/6  | Bayesian Estimation     |   | **HW 1 Due**  |
 | Tu 2/11 | Hypothesis Testing: Fisher Exact Test |         |          |
