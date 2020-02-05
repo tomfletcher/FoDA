@@ -18,7 +18,7 @@ machine learning, in particular, deep neural networks.
     -- Office Hours: Mondays 02:30 - 04:30 PM (Rice 442) <br/>
   
      - Jazlene Rae Guevarra (jfg3xs *AT* virginia *DOT* edu)
-     -- Office Hours: Wednesdays 03:30 - 05:30 PM (Rice 340) <br/>
+     -- Office Hours: Wednesdays 03:30 - 05:30 PM (Rice 442) <br/>
   
      - Matt Lee (jl4wq *AT* virginia *DOT* edu) 
      -- Office Hours: Fridays 02:00 - 04:00 PM (Rice 340)
