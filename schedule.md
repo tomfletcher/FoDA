@@ -11,7 +11,7 @@
 | Tu 2/4  | KNN Classifier (cont.) <br> [Maximum Likelihood Estimation](lectures/L07-MLE.pdf) |         |          |
 | Th 2/6  | Class Cancelled     |   | **HW 1 Due**  |
 | Tu 2/11 | [Bayesian Estimation](lectures/L08-BayesianEstimation.pdf)  |         |          |
-| Th 2/13 | Hypothesis Testing: Fisher Exact Test |         | HW 2, Due Tu 2/25         |
+| Th 2/13 | Hypothesis Testing: Fisher Exact Test |         | [HW 2](homeworks/hw2.pdf)       |
 | Tu 2/18 | Linear Algebra Basics: Vectors              | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
 | Th 2/20 | Linear Regression <br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
 | Tu 2/25 | Linear Algebra Basics: Matrices              |         | HW 3 (TBD), Due Tu 3/4<br> <br>**HW 2 Due**         |
