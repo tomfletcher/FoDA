@@ -7,11 +7,11 @@
 | Tu 1/21 | [Conditional Probability](lectures/L03-ConditionalProbability.pdf) [(slides)](lectures/L03-ConditionalProbability-slides.pdf) | M4D Chapter 1.2 |                                            |
 | Th 1/23 | [Bayes' Rule](lectures/L04-BayesRule.pdf)                          | M4D 1.6 - 1.8   | [HW 1](homeworks/hw1.pdf), Due Th 2/6 <br> [hippocampus data](homeworks/OASIS-hippocampus.csv) |
 | Tu 1/28 | [Classification and Naive Bayes](lectures/L05-NaiveBayes.pdf) <br> [Example Code](examples/SimpleDataPlots.ipynb)   |        |       |
-| Th 1/30 | Bayesian Logic              |         |          |
-| Tu 2/4  | Maximum Likelihood Estimation |         |          |
-| Th 2/6  | Bayesian Estimation     |   | **HW 1 Due**  |
-| Tu 2/11 | Hypothesis Testing: Fisher Exact Test |         |          |
-| Th 2/13 | Hypothesis Testing: Bayesian Approaches |         | HW 2 (TBD), Due Tu 2/25         |
+| Th 1/30 | [K-means Clustering](lectures/L06:07-Clustering:KNN.pdf) <br> [Class Notes](lectures/L06-Notes.pdf)           |         |          |
+| Tu 2/4  | KNN Classifier (cont.) <br> [Maximum Likelihood Estimation](lectures/L07-MLE.pdf) |         |          |
+| Th 2/6  | Class Cancelled     |   | **HW 1 Due**  |
+| Tu 2/11 | [Bayesian Estimation](lectures/L08-BayesianEstimation.pdf)  |         |          |
+| Th 2/13 | Hypothesis Testing: Fisher Exact Test |         | [HW 2](homeworks/hw2.pdf), [Data](homeworks/Data-HW2.zip) <br> Due Tu 2/25       |
 | Tu 2/18 | Linear Algebra Basics: Vectors              | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
 | Th 2/20 | Linear Regression <br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
 | Tu 2/25 | Linear Algebra Basics: Matrices              |         | HW 3 (TBD), Due Tu 3/4<br> <br>**HW 2 Due**         |
