@@ -13,7 +13,7 @@
 | Tu 2/11 | [Bayesian Estimation](lectures/L08-BayesianEstimation.pdf)  |         |          |
 | Th 2/13 | [Hypothesis Testing: Fisher Exact Test](lectures/L09-HypothesisTesting-FisherTest.pdf) |         | [HW 2](homeworks/hw2.pdf), [Data](homeworks/Data-HW2.zip) <br> Due Tu 2/25       |
 | Tu 2/18 | [Linear Algebra Basics: Vectors](lectures/L10-Vectors.pdf)              | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
-| Th 2/20 | Linear Regression <br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
+| Th 2/20 | [Linear Regression](lectures/L11-LinearRegression.pdf) <br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
 | Tu 2/25 | Linear Algebra Basics: Matrices              |         | HW 3 (TBD), Due Tu 3/4<br> <br>**HW 2 Due**         |
 | Th 2/27 | Multiple Linear Regression<br>  |         |          |
 | Tu 3/3  | Exam Review  |         |  **HW 3 Due**   |
