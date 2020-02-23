@@ -16,8 +16,8 @@
 | Th 2/20 | [Linear Regression](lectures/L11-LinearRegression.pdf) <br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
 | Tu 2/25 | Linear Algebra Basics: Matrices              |         |  **HW 2 Due**         |
 | Th 2/27 | Multiple Linear Regression<br>  |         |   HW 3 (TBD), Due Tu 3/17       | 
-| Tu 3/3  | Exam Review  |         |    |
-| Th 3/5  | **Midterm Exam**<br> Exam Guide (TBD) <br> Exam Guide Solutions (TBD)    |         |          |
+| Tu 3/3  | Exam Review <br> Exam Guide (TBD) <br> Exam Guide Solutions (TBD)|         |    |
+| Th 3/5  | **Midterm Exam**     |         |          |
 | Tu 3/10 | *Spring Break*                        |         |          |
 | Th 3/12 | *Spring Break*                        |         |          |
 | Tu 3/17 | Multiple Linear Regression in Practice (examples/MultipleLinearRegression.ipynb) |         |  **HW 3 Due**   |
