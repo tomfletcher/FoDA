@@ -31,7 +31,7 @@
 | Tu 4/14 | Perceptron | M4D Chapter 9 |          |
 | Th 4/16 | Backpropagation |         |          |
 | Tu 4/21 | Backpropagation, Softmax |         | **HW 5 Due** |
-| Th 4/23 | Convolution |         | Final (TBD)<br>**Due Tu 5/5** |
+| Th 4/23 | Convolution |         |   |
 | Tu 4/28 | Generative Adversarial Networks |         |          |
 |         |               |         |          |
 | Tu 5/5  | **Final Exam**             |         |          |
