@@ -21,17 +21,17 @@
 | Tu 3/10 | *Spring Break*                        |         |          |
 | Th 3/12 | *Spring Break*                        |         |          |
 | Tu 3/17 | Multiple Linear Regression in Practice (examples/MultipleLinearRegression.ipynb) |         |  **HW 3 Due**   |
-| Th 3/19 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) |    HW 4(TBD), Due Tu 4/2      |
+| Th 3/19 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) |    HW 4(TBD), Due Tu 4/7      |
 | Tu 3/24 | SVD, cont.<br>[Python example](examples/SVD.ipynb) |  |  |
 | Th 3/26 | Principal Component Analysis |         |          |
 | Tu 3/31 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |          |
-| Th 4/2  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |   **HW 4 Due**      |
-| Tu 4/7  | Logistic Regression |         | HW 5 (TBD), Due Tu 4/21<br> <br> |
-| Th 4/9  | Intro to Neural Networks |         |          |
+| Th 4/2  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |         |
+| Tu 4/7  | Logistic Regression |         | **HW 4 Due**  |
+| Th 4/9  | Intro to Neural Networks |         |  HW 5 (TBD), Due Tu 4/23<br>  |
 | Tu 4/14 | Perceptron | M4D Chapter 9 |          |
 | Th 4/16 | Backpropagation |         |          |
-| Tu 4/21 | Backpropagation, Softmax |         | **HW 5 Due** |
-| Th 4/23 | Convolution |         |   |
+| Tu 4/21 | Backpropagation, Softmax |         |  |
+| Th 4/23 | Convolution |         | **HW 5 Due**  |
 | Tu 4/28 | Generative Adversarial Networks |         |          |
 |         |               |         |          |
 | Tu 5/5  | **Final Exam**             |         |          |
