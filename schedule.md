@@ -15,7 +15,7 @@
 | Tu 2/18 | [Linear Algebra Basics: Vectors](lectures/L10-Vectors.pdf)              | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
 | Th 2/20 | [Linear Regression](lectures/L11-LinearRegression.pdf) <br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
 | Tu 2/25 | [Linear Algebra Basics: Matrices](lectures/L12-Matrices.pdf)              |         |  **HW 2 Due**         |
-| Th 2/27 | [Multiple Linear Regression] (examples/MultipleLinearRegression.ipynb) |         |   HW 3 (TBD), Due Th 3/19       | 
+| Th 2/27 | [Multiple Linear Regression](examples/MultipleLinearRegression.ipynb) |         |   HW 3 (TBD), Due Th 3/19       | 
 | Tu 3/3  | Exam Review <br> [Exam Guide](lectures/MidtermGuide.pdf), [Exam Guide Solutions](lectures/MidtermGuideSolutions.pdf)|         |    |
 | Th 3/5  | **Midterm Exam**     |         |          |
 | Tu 3/10 | *Spring Break*                        |         |          |
