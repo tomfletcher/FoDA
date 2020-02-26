@@ -15,23 +15,23 @@
 | Tu 2/18 | [Linear Algebra Basics: Vectors](lectures/L10-Vectors.pdf)              | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
 | Th 2/20 | [Linear Regression](lectures/L11-LinearRegression.pdf) <br> [Example Code](examples/LinearRegression.ipynb)  | M4D Section 5.1 |          |
 | Tu 2/25 | [Linear Algebra Basics: Matrices](lectures/L12-Matrices.pdf)              |         |  **HW 2 Due**         |
-| Th 2/27 | Multiple Linear Regression<br>  |         |   HW 3 (TBD), Due Tu 3/17       | 
+| Th 2/27 | [Multiple Linear Regression] (examples/MultipleLinearRegression.ipynb) |         |   HW 3 (TBD), Due Th 3/19       | 
 | Tu 3/3  | Exam Review <br> [Exam Guide](lectures/MidtermGuide.pdf), [Exam Guide Solutions](lectures/MidtermGuideSolutions.pdf)|         |    |
 | Th 3/5  | **Midterm Exam**     |         |          |
 | Tu 3/10 | *Spring Break*                        |         |          |
 | Th 3/12 | *Spring Break*                        |         |          |
-| Tu 3/17 | Multiple Linear Regression in Practice (examples/MultipleLinearRegression.ipynb) |         |  **HW 3 Due**   |
-| Th 3/19 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) |    HW 4(TBD), Due Tu 4/7      |
-| Tu 3/24 | SVD, cont.<br>[Python example](examples/SVD.ipynb) |  |  |
-| Th 3/26 | Principal Component Analysis |         |          |
-| Tu 3/31 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |          |
-| Th 4/2  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |         |
-| Tu 4/7  | Logistic Regression |         | **HW 4 Due**  |
-| Th 4/9  | Intro to Neural Networks |         |  HW 5 (TBD), Due Tu 4/23<br>  |
-| Tu 4/14 | Perceptron | M4D Chapter 9 |          |
+| Tu 3/17 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) |           |
+| Th 3/19 | SVD, cont.<br>[Python example](examples/SVD.ipynb) |  | **HW 3 Due** |
+| Tu 3/24 | Principal Component Analysis |         |  HW 4(TBD), Due Tu 4/9  |
+| Th 3/26 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |          |
+| Tu 3/31  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |         |
+| Th 4/2  | Logistic Regression |         |  |
+| Tu 4/7  | Intro to Neural Networks |         |   |
+| Th 4/9  | Perceptron | M4D Chapter 9 |  **HW 4 Due**         |
+| Tu 4/14 | Support Vector Machine   |         |   HW 5 (TBD), Due Tu 4/28<br>  |
 | Th 4/16 | Backpropagation |         |          |
 | Tu 4/21 | Backpropagation, Softmax |         |  |
-| Th 4/23 | Convolution |         | **HW 5 Due**  |
-| Tu 4/28 | Generative Adversarial Networks |         |          |
+| Th 4/23 | Convolution |         |   |
+| Tu 4/28 | Generative Adversarial Networks |         |  **HW 5 Due**  |
 |         |               |         |          |
 | Tu 5/5  | **Final Exam**             |         |          |
