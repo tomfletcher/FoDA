@@ -21,7 +21,7 @@
 | Tu 3/10 | *Spring Break*                        |         |          |
 | Th 3/12 | *Spring Break*                        |         |          |
 | Tu 3/17 | *Classes Canceled for COVID-19* |  |           |
-| Th 3/19 | Singular Value Decomposition (SVD) <br>[Python example](examples/SVD.ipynb) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
+| Th 3/19 | [Singular Value Decomposition (SVD)](lectures/L14-SVD.pdf) <br>[Python example](examples/SVD.ipynb) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
 | Tu 3/24 | Principal Component Analysis |         |  **HW 3 Due** <br>HW 4(TBD), Due Tu 4/9  |
 | Th 3/26 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |          |
 | Tu 3/31  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |         |
