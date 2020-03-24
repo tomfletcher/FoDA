@@ -22,7 +22,7 @@
 | Th 3/12 | *Spring Break*                        |         |          |
 | Tu 3/17 | *Classes Canceled for COVID-19* |  |           |
 | Th 3/19 | [Singular Value Decomposition (SVD)](lectures/L14-SVD.pdf) <br>[Python example](examples/SVD.ipynb) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
-| Tu 3/24 | [Principal Component Analysis](lectures/L15-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia]((https://en.wikipedia.org/wiki/Principal_component_analysis)        |  **HW 3 Due** |
+| Tu 3/24 | [Principal Component Analysis](lectures/L15-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)        |  **HW 3 Due** |
 | Th 3/26 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |          |
 | Tu 3/31  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |         |
 | Th 4/2  | Logistic Regression |         |  |
