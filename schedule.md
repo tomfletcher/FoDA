@@ -27,11 +27,11 @@
 | Tu 3/31  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |         |
 | Th 4/2  | Logistic Regression |         |  |
 | Tu 4/7  | Intro to Neural Networks |         |   |
-| Th 4/9  | Perceptron | M4D Chapter 9 |  **HW 4 Due**         |
-| Tu 4/14 | Support Vector Machine   |         |    **HW 3 Due**  |
+| Th 4/9  | Perceptron | M4D Chapter 9 |        |
+| Tu 4/14 | Support Vector Machine   |         |    **HW 4 Due**  |
 | Th 4/16 | Backpropagation |         |   HW 5 (TBD), Due Th 4/30<br> |
 | Tu 4/21 | Backpropagation, Softmax |         |  |
 | Th 4/23 | Convolution |         |   |
-| Tu 4/28 | Generative Adversarial Networks |         |  **HW 5 Due**  |
+| Tu 4/28 | Generative Adversarial Networks |         |   |
 |         |               |         |          |
 | Tu 5/5  | **Final Exam**             |         |          |
