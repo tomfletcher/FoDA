@@ -23,13 +23,13 @@
 | Tu 3/17 | *Classes Canceled for COVID-19* |  |           |
 | Th 3/19 | [Singular Value Decomposition (SVD)](lectures/L14-SVD.pdf) <br>[Python example](examples/SVD.ipynb) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
 | Tu 3/24 | [Principal Component Analysis](lectures/L15-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis)        |  **HW 3 Due** |
-| Th 3/26 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |          |
+| Th 3/26 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |   [HW 4](homeworks/hw4.pdf), Due Tu 4/14   |
 | Tu 3/31  | CCA, cont.<br>[CCA Code Example](examples/CCA.ipynb) |         |         |
 | Th 4/2  | Logistic Regression |         |  |
 | Tu 4/7  | Intro to Neural Networks |         |   |
 | Th 4/9  | Perceptron | M4D Chapter 9 |  **HW 4 Due**         |
-| Tu 4/14 | Support Vector Machine   |         |   HW 5 (TBD), Due Tu 4/28<br>  |
-| Th 4/16 | Backpropagation |         |          |
+| Tu 4/14 | Support Vector Machine   |         |    **HW 3 Due**  |
+| Th 4/16 | Backpropagation |         |   HW 5 (TBD), Due Th 4/30<br> |
 | Tu 4/21 | Backpropagation, Softmax |         |  |
 | Th 4/23 | Convolution |         |   |
 | Tu 4/28 | Generative Adversarial Networks |         |  **HW 5 Due**  |
