@@ -27,7 +27,7 @@
 | Tu 3/31  | Midterm Solution |         |         |
 | Th 4/2  | [Logistic Regression](lectures/L17-LogisticRegression.pdf) |         |  |
 | Tu 4/7  | [Intro to Neural Networks](lectures/L18-NeuralNetwork.pdf) |         |   |
-| Th 4/9  | Perceptron | M4D Chapter 9 |        |
+| Th 4/9  | Perceptron |   |        |
 | Tu 4/14 | Support Vector Machine   |         |    **HW 4 Due**  |
 | Th 4/16 | Backpropagation |         |   HW 5 (TBD), Due Th 4/30<br> |
 | Tu 4/21 | Backpropagation, Softmax |         |  |
