@@ -26,7 +26,7 @@
 | Th 3/26 | [More About PCA](lectures/L16-MorePCA.pdf)<br>[Canonical Correlation Analysis](lectures/L16-CCA.pdf)<br>[CCA Code Example](examples/CCA.ipynb) | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |   [HW 4](homeworks/hw4.pdf), Due Tu 4/14<br>[hand1.dat](homeworks/hand1.dat), [hand2.dat](homeworks/hand2.dat), [all-hands.dat](homeworks/all-hands.dat) |
 | Tu 3/31  | Midterm Solution |         |         |
 | Th 4/2  | [Logistic Regression](lectures/L17-LogisticRegression.pdf) |         |  |
-| Tu 4/7  | Intro to Neural Networks |         |   |
+| Tu 4/7  | [Intro to Neural Networks](lectures/L18-NeuralNetwork.pdf) |         |   |
 | Th 4/9  | Perceptron | M4D Chapter 9 |        |
 | Tu 4/14 | Support Vector Machine   |         |    **HW 4 Due**  |
 | Th 4/16 | Backpropagation |         |   HW 5 (TBD), Due Th 4/30<br> |
