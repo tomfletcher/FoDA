@@ -28,7 +28,7 @@
 | Th 4/2  | [Logistic Regression](lectures/L17-LogisticRegression.pdf) |         |  |
 | Tu 4/7  | [Intro to Neural Networks](lectures/L18-NeuralNetwork.pdf) |         |   |
 | Th 4/9  | [Perceptron](lectures/L19-Perceptron.pdf) |   |        |
-| Tu 4/14 | Support Vector Machine   |         |    **HW 4 Due**  |
+| Tu 4/14 | [Support Vector Machine](lectures/L20-SVM.pdf)   |         |    **HW 4 Due**  |
 | Th 4/16 | Backpropagation |         |   HW 5 (TBD), Due Th 4/30<br> |
 | Tu 4/21 | Backpropagation, Softmax |         |  |
 | Th 4/23 | Convolution |         |   |
