@@ -29,7 +29,7 @@
 | Tu 4/7  | [Intro to Neural Networks](lectures/L18-NeuralNetwork.pdf) |         |   |
 | Th 4/9  | [Perceptron](lectures/L19-Perceptron.pdf) |   |        |
 | Tu 4/14 | [Support Vector Machine](lectures/L20-SVM.pdf)   |         |    **HW 4 Due**  |
-| Th 4/16 | Backpropagation |         |   [HW 5](homeworks/hw5.pdf), Due Th 4/30<br> |
+| Th 4/16 | [Backpropagation](lectures/L20-Backprop.pdf) |         |   [HW 5](homeworks/hw5.pdf), Due Th 4/30<br> |
 | Tu 4/21 | Backpropagation, Softmax |         |  |
 | Th 4/23 | Convolution |         |   |
 | Tu 4/28 | Generative Adversarial Networks |         |   |
