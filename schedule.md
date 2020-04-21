@@ -32,6 +32,6 @@
 | Th 4/16 | [Backpropagation](lectures/L20-Backprop.pdf) |         |   [HW 5](homeworks/hw5.pdf), Due Th 4/30<br> |
 | Tu 4/21 | Backpropagation, Softmax |         |  |
 | Th 4/23 | Convolution |         |   |
-| Tu 4/28 | Generative Adversarial Networks |         |   |
+| Tu 4/28 | Variational AutoEncoder |         |   |
 |         |               |         |          |
 | Tu 5/5  | **Final Exam**             |         |          |
