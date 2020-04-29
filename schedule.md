@@ -32,6 +32,6 @@
 | Th 4/16 | [Backpropagation](lectures/L20-Backprop.pdf) |         |   [HW 5](homeworks/hw5.pdf), Due Th 4/30<br> |
 | Tu 4/21 | [Convolution](lectures/L21-Convolution.pdf) |         |  |
 | Th 4/23 | Convolution, cont. |         |   |
-| Tu 4/28 | [(Variational) AutoEncoder](lectures/L22-AE.pdf)(lectures/L22-VAE.pdf) |         |   |
+| Tu 4/28 | [AutoEncoder](lectures/L22-AE.pdf) [(Variational) AutoEncoder](lectures/L22-VAE.pdf) |         |   |
 |         |               |         |          |
 | Tu 5/5  | **Final Exam**             |         |          |
