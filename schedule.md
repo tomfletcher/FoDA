@@ -1,6 +1,7 @@
 ## Schedule
 
 **This schedule and materials are from Spring 2020 for reference. New schedule for 2021 coming soon! There will be approximately 5 homework assignments.**
+
 | Day     | Title / Notes                                                      | Reading         | Homework                                   |
 |---------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
 | Tu 1/14 | [Introduction](lectures/L01-Introduction.pdf)                      |                 |                                            |
