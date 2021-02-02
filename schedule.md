@@ -7,7 +7,7 @@
 | Day     | Title / Notes                                                      | Reading         | Homework                                   |
 |---------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
 | Tu 2/2 | [Introduction](lectures/L01-Introduction.pdf)                      |                 |                                            |
-| Th 2/4 | Basic probability            | M4D Chapter 1   |                                            |
+| Th 2/4 | Basic probability            | M4D Chapter 1.1 - 1.2 |                                            |
 | Tu 2/9 | Conditional Probability | M4D Chapter 1.2 |                                            |
 | Th 2/11 | Bayes' Rule            | M4D 1.6 - 1.8   |  |
 | Tu 2/16 | Classification and Naive Bayes |        |       |
