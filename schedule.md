@@ -1,6 +1,6 @@
 ## Schedule
 
-**Tentative, subject to change!**
+Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ipynb)
 
 "M4D" in the reading refers to [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 
@@ -8,12 +8,12 @@
 |---------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
 | Tu 2/2 | [Introduction](lectures/L01-Introduction.pdf)                      |                 |                                            |
 | Th 2/4 | [Basic probability](lectures/L02-ProbabilityBasics.pdf) | M4D Chapter 1.1 - 1.2 |                                            |
-| Tu 2/9 | Conditional Probability | M4D Chapter 1.2 |                                            |
-| Th 2/11 | Bayes' Rule            | M4D 1.6 - 1.8   |  |
-| Tu 2/16 | Classification and Naive Bayes |        |       |
-| Th 2/18 | Linear Algebra Basics: Vectors | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16 |          |
-| Tu 2/23 | K-means Clustering |         |          |
-| Th 2/25 | *(catch up day)* |   |   |
+| Tu 2/9 | Basic probability, cont. |  |                                            |
+| Th 2/11 | Conditional Probability            | M4D Chapter 1.2   |  |
+| Tu 2/16 | Bayes' Rule | M4D 1.6 - 1.8       |       |
+| Th 2/18 | Classification and Naive Bayes |  |          |
+| Tu 2/23 | Linear Algebra Basics: Vectors | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
+| Th 2/25 | K-means Clustering |   |   |
 | Tu 3/2 | Maximum Likelihood Estimation  |         |          |
 | Th 3/4 | Bayesian Estimation |         |  |
 | Tu 3/9 | Hypothesis Testing: Fisher Exact Test   |  |     |
