@@ -10,7 +10,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/4 | [Basic probability](lectures/L02-ProbabilityBasics.pdf) | M4D Chapter 1.1 - 1.2 |                                            |
 | Tu 2/9 | Basic probability, cont. |  |                                            |
 | Th 2/11 | [Conditional Probability](lectures/L03-ConditionalProbability-slides.pdf) [(notes)](lectures/L03-ConditionalProbability.pdf) | M4D Chapter 1.2   | [HW 1](homeworks/hw1.pdf), Due Th 2/25<br>[OASIS-hippocampus.csv](homeworks/OASIS-hippocampus.csv) |
-| Tu 2/16 | [Bayes' Rule](lectures/L03-BayesRule.pdf)<br>["Boy Born On Tuesday" Solution](lectures/BoyBornOnTuesdaySolution.pdf) | M4D 1.6 - 1.8       |       |
+| Tu 2/16 | [Bayes' Rule](lectures/L04-BayesRule.pdf)<br>["Boy Born On Tuesday" Solution](lectures/BoyBornOnTuesdaySolution.pdf) | M4D 1.6 - 1.8       |       |
 | Th 2/18 | Classification and Naive Bayes |  |          |
 | Tu 2/23 | Linear Algebra Basics: Vectors | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16        |          |
 | Th 2/25 | K-means Clustering |   | **HW 1 Due**  |
