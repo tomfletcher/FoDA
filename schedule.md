@@ -13,7 +13,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 2/16 | [Bayes' Rule](lectures/L04-BayesRule.pdf)<br>["Boy Born On Tuesday" Solution](lectures/BoyBornOnTuesdaySolution.pdf) | M4D 1.6 - 1.8       |       |
 | Th 2/18 | [Classification and Naive Bayes](lectures/L05-NaiveBayes.pdf) |  | [Naive Bayes Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)         |
 | Tu 2/23 | Naive Bayes, cont.<br>[Data Plots in Python](examples/SimpleDataPlots.ipynb) |   |   |
-| Th 2/25 | Linear Algebra Basics: Vectors<br>**Quiz 1**(through Bayes' Rule) | M4D Chapter 3<br>[UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16 |   |
+| Th 2/25 | [Linear Algebra Basics: Vectors](lectures/L06-Vectors.pdf)<br>**Quiz 1** (through Bayes' Rule) | M4D Chapter 3<br>Extra: [UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16 |   |
 | Tu 3/2 | K-means Clustering  |         | **HW 1 Due** |
 | Th 3/4 | Maximum Likelihood / Bayesian Estimation |         |  |
 | Tu 3/9 | *Break Day -- No Class*  |  |     |
