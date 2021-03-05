@@ -15,12 +15,12 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 2/23 | Naive Bayes, cont.<br>[Data Plots in Python](examples/SimpleDataPlots.ipynb) |   |   |
 | Th 2/25 | [Linear Algebra Basics: Vectors](lectures/L06-Vectors.pdf)<br>**Quiz 1** (through Bayes' Rule) | M4D Chapter 3<br>Extra: [UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16 |   |
 | Tu 3/2 | [K-means Clustering, Nearest Neighbor](lectures/L07-Clustering-NearestNeighbor.pdf) | M4D Chapter 8.1 - 8.3<br>Extra: M4D Chapter 4 | **HW 1 Due** |
-| Th 3/4 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf) |         |  |
+| Th 3/4 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf) |         | [HW 2](homeworks/hw2.pdf), Due Tu 3/23 |
 | Tu 3/9 | *Break Day -- No Class*  |  |     |
 | Th 3/11 | Hypothesis Testing: Fisher Exact Test |          |
 | Tu 3/16 | Linear Regression | M4D Section 5.1  |         |      |
 | Th 3/18 | Linear Algebra Basics: Matrices |         |   | 
-| Tu 3/23 | Multiple Linear Regression |         |    |
+| Tu 3/23 | Multiple Linear Regression |         | **HW 2 Due** |
 | Th 3/25 | Multiple Linear Regression cont. |         |          |
 | Tu 3/30 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
 | Th 4/1 | Principal Component Analysis | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
