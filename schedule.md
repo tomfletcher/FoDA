@@ -15,7 +15,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 2/23 | Naive Bayes, cont.<br>[Data Plots in Python](examples/SimpleDataPlots.ipynb) |   |   |
 | Th 2/25 | [Linear Algebra Basics: Vectors](lectures/L06-Vectors.pdf)<br>**Quiz 1** (through Bayes' Rule) | M4D Chapter 3<br>Extra: [UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16 |   |
 | Tu 3/2 | [K-means Clustering, Nearest Neighbor](lectures/L07-Clustering-NearestNeighbor.pdf) | M4D Chapter 8.1 - 8.3<br>Extra: M4D Chapter 4 | **HW 1 Due** |
-| Th 3/4 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf) |         | [HW 2](homeworks/hw2.pdf), Due Tu 3/23 |
+| Th 3/4 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf) |         | [HW 2](homeworks/hw2.pdf), Due Tu 3/23 <br>[2D_data.csv](homeworks/2D_data.csv)<br>[mnist.csv](homeworks/mnist.csv)|
 | Tu 3/9 | *Break Day -- No Class*  |  |     |
 | Th 3/11 | Hypothesis Testing: Fisher Exact Test |          |
 | Tu 3/16 | Linear Regression | M4D Section 5.1  |         |      |
