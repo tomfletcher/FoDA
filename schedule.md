@@ -17,9 +17,9 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/2 | [K-means Clustering, Nearest Neighbor](lectures/L07-Clustering-NearestNeighbor.pdf) | M4D Chapter 8.1 - 8.3<br>Extra: M4D Chapter 4 | **HW 1 Due** |
 | Th 3/4 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf) |         | [HW 2](homeworks/hw2.pdf), Due Tu 3/23 <br>[2D_data.csv](homeworks/2D_data.csv)<br>[mnist.csv](homeworks/mnist.csv)|
 | Tu 3/9 | *Break Day -- No Class*  |  |     |
-| Th 3/11 | Hypothesis Testing: Fisher Exact Test |          |
+| Th 3/11 | [Hypothesis Testing: Fisher Exact Test](lectures/L09-HypothesisTesting-FisherTest.pdf) |          |
 | Tu 3/16 | Linear Regression | M4D Section 5.1  |         |      |
-| Th 3/18 | Linear Algebra Basics: Matrices |         |   | 
+| Th 3/18 | Linear Algebra Basics: Matrices<br>**Quiz 2** (through MLE) |         |   | 
 | Tu 3/23 | Multiple Linear Regression |         | **HW 2 Due** |
 | Th 3/25 | Multiple Linear Regression cont. |         |          |
 | Tu 3/30 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
