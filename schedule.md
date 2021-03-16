@@ -18,7 +18,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 3/4 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf) |         | [HW 2](homeworks/hw2.pdf), Due Tu 3/23 <br>[2D_data.csv](homeworks/2D_data.csv)<br>[mnist.csv](homeworks/mnist.csv)<br>[cardiac.csv](homeworks/cardiac.csv)|
 | Tu 3/9 | *Break Day -- No Class*  |  |     |
 | Th 3/11 | [Hypothesis Testing: Fisher Exact Test](lectures/L09-HypothesisTesting-FisherTest.pdf) | Extra: [How vaccine trials work](https://medium.com/swlh/the-fascinating-math-powering-the-covid-19-vaccine-trials-930a5e97c9c9) |
-| Tu 3/16 | Linear Regression | M4D Section 5.1  |         |      |
+| Tu 3/16 | [Linear Regression](lectures/L10-LinearRegression.pdf) | M4D Section 5.1  |    |      |
 | Th 3/18 | Linear Algebra Basics: Matrices<br>**Quiz 2** (through MLE) |         |   | 
 | Tu 3/23 | Multiple Linear Regression |         | **HW 2 Due** |
 | Th 3/25 | Multiple Linear Regression cont. |         |          |
