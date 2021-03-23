@@ -19,7 +19,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/9 | *Break Day -- No Class*  |  |     |
 | Th 3/11 | [Hypothesis Testing: Fisher Exact Test](lectures/L09-HypothesisTesting-FisherTest.pdf) | Extra: [How vaccine trials work](https://medium.com/swlh/the-fascinating-math-powering-the-covid-19-vaccine-trials-930a5e97c9c9) |
 | Tu 3/16 | [Linear Regression](lectures/L10-LinearRegression.pdf) | M4D Section 5.1  |    |      |
-| Th 3/18 | [Linear Algebra Basics: Matrices](lectures/L11-Matrices.pdf)<br>[Multiple Linear Regression Example](examples/MultipleLinearRegression.ipynb)**Quiz 2** (through MLE) |         |   | 
+| Th 3/18 | [Linear Algebra Basics: Matrices](lectures/L11-Matrices.pdf)<br>[Multiple Linear Regression Example](examples/MultipleLinearRegression.ipynb)<br>**Quiz 2** (through MLE) |         |   | 
 | Tu 3/23 | Multiple Linear Regression |         | **HW 2 Due** |
 | Th 3/25 | Multiple Linear Regression cont. |         |          |
 | Tu 3/30 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
