@@ -21,7 +21,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/16 | [Linear Regression](lectures/L10-LinearRegression.pdf) | M4D Section 5.1  |    |      |
 | Th 3/18 | [Linear Algebra Basics: Matrices](lectures/L11-Matrices.pdf)<br>[Multiple Linear Regression Example](examples/MultipleLinearRegression.ipynb)<br>**Quiz 2** (through MLE) |         |   | 
 | Tu 3/23 | Multiple Linear Regression |         | **HW 2 Due** |
-| Th 3/25 | Multiple Linear Regression cont. |         | [HW 3](homeworks/hw3.pdf), Due Tu 4/6     |
+| Th 3/25 | Multiple Linear Regression cont. |         | [HW 3](homeworks/hw3.pdf), Due Tu 4/6<br>[faithful.csv](homeworks/faithful.csv)  |
 | Tu 3/30 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
 | Th 4/1 | Principal Component Analysis | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
 | Tu 4/6 | More About PCA |  | **HW 3 Due**  |
