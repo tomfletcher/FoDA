@@ -23,7 +23,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/23 | Multiple Linear Regression |         | **HW 2 Due** |
 | Th 3/25 | Multiple Linear Regression cont. |         | [HW 3](homeworks/hw3.pdf), Due Tu 4/6<br>[faithful.csv](homeworks/faithful.csv)  |
 | Tu 3/30 | [Singular Value Decomposition (SVD)](lectures/L12-SVD.pdf)<br>[SVD.ipynb](examples/SVD.ipynb) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
-| Th 4/1 | Principal Component Analysis | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
+| Th 4/1 | [Principal Component Analysis](lectures/L13-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
 | Tu 4/6 | More About PCA |  | **HW 3 Due**  |
 | Th 4/8 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |         |
 | Tu 4/13 | Logistic Regression |         |  |
