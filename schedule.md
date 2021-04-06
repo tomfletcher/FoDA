@@ -24,7 +24,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 3/25 | Multiple Linear Regression cont. |         | [HW 3](homeworks/hw3.pdf), Due Tu 4/6<br>[faithful.csv](homeworks/faithful.csv)  |
 | Tu 3/30 | [Singular Value Decomposition (SVD)](lectures/L12-SVD.pdf)<br>[SVD.ipynb](examples/SVD.ipynb) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
 | Th 4/1 | [Principal Component Analysis](lectures/L13-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
-| Tu 4/6 | [Canonical Correlation Analysis](lectures/L14-CCA.pdf)<br>[CCA.ipynb](examples/CCA.ipynb) | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) | **HW 3 Due**  |
+| Tu 4/6 | [Canonical Correlation Analysis](lectures/L14-CCA.pdf)<br>[CCA.ipynb](examples/CCA.ipynb) | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) | **HW 3 Due**<br>[HW 4](homeworks/hw4.pdf), Due Th 2/22<br>[hand1.dat](homeworks/hand1.dat), [hand2.dat](homeworks/hand2.dat), [all-hands.dat](homeworks/all-hands.dat) |
 | Th 4/8 | Logistic Regression |  |         |
 | Tu 4/13 | catch up |         |  |
 | Th 4/15 | *Break Day -- No Class* |         |   |
