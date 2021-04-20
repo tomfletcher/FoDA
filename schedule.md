@@ -26,9 +26,9 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 4/1 | [Principal Component Analysis](lectures/L13-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
 | Tu 4/6 | [Canonical Correlation Analysis](lectures/L14-CCA.pdf)<br>[CCA.ipynb](examples/CCA.ipynb) | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) | **HW 3 Due**<br>[HW 4](homeworks/hw4.pdf), Due Th 4/22<br>[hand1.dat](homeworks/hand1.dat), [hand2.dat](homeworks/hand2.dat), [all-hands.dat](homeworks/all-hands.dat) |
 | Th 4/8 | [Logistic Regression](lectures/L15-LogisticRegression.pdf) | [Logistic Regression on Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression) |  |
-| Tu 4/13 | catch up |         |  |
+| Tu 4/13 | Logistic Regression, cont. |         |  |
 | Th 4/15 | *Break Day -- No Class* |         |   |
-| Tu 4/20 | Intro to Neural Networks: Perceptron<br>**Quiz 3: Fisher Exact Test and Linear Regression** | M4D Chapter 9 - 9.2  |        |
+| Tu 4/20 | [Intro to Neural Networks: Perceptron](L16-Perceptron.pdf)<br>**Quiz 3: Fisher Exact Test and Linear Regression** | M4D Chapter 9 - 9.2  |        |
 | Th 4/22 | Support Vector Machine <br> SVM Optimization  |         | **HW 4 Due**  |
 | Tu 4/27 | Backpropagation |         |    |
 | Th 4/29 | Convolution |         |  |
