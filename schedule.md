@@ -28,7 +28,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 4/8 | [Logistic Regression](lectures/L15-LogisticRegression.pdf) | [Logistic Regression on Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression) |  |
 | Tu 4/13 | Logistic Regression, cont. |         |  |
 | Th 4/15 | *Break Day -- No Class* |         |   |
-| Tu 4/20 | [Intro to Neural Networks: Perceptron](L16-Perceptron.pdf)<br>**Quiz 3: Fisher Exact Test and Linear Regression** | M4D Chapter 9 - 9.2  |        |
+| Tu 4/20 | [Intro to Neural Networks: Perceptron](lectures/L16-Perceptron.pdf)<br>**Quiz 3: Fisher Exact Test and Linear Regression** | M4D Chapter 9 - 9.2  |        |
 | Th 4/22 | Support Vector Machine <br> SVM Optimization  |         | **HW 4 Due**  |
 | Tu 4/27 | Backpropagation |         |    |
 | Th 4/29 | Convolution |         |  |
