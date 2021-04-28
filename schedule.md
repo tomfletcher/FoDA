@@ -30,7 +30,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 4/15 | *Break Day -- No Class* |         |   |
 | Tu 4/20 | [Intro to Neural Networks: Perceptron](lectures/L16-Perceptron.pdf)<br>**Quiz 3: Fisher Exact Test and Linear Regression** | M4D Chapter 9 - 9.2  |        |
 | Th 4/22 | [Backpropagation](lectures/L16-Backprop.pdf)  |         | **HW 4 Due**  |
-| Tu 4/27 | Convolution |         |    |
+| Tu 4/27 | Convolution |         | [HW 5](homeworks/hw5.pdf), Due Fr 5/14 |
 | Th 4/29 | Convolution, cont. |         |  |
 | Tu 5/4 | AutoEncoders <br> Variational AutoEncoders |         |   |
 | Th 5/6 | Support Vector Machine <br> SVM Optimization |         |   |
