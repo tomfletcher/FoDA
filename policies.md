@@ -16,6 +16,8 @@ If you believe there is an error in grading (homeworks or exams), you may reques
 
 Letter grade score ranges:
 
+| Letter | Score Range |
+| ------ | ----------- |
 | A+ | 98 - 100 |
 | -- | ---------|
 | A  | 93 - 97  |
