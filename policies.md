@@ -14,6 +14,35 @@ Homeworks are due by 11:59 PM on the due date. Late assignments will receive a 1
 
 If you believe there is an error in grading (homeworks or exams), you may request a regrading within one week of receiving your grade. Requests must be made in writing by email, explaining clearly why you think there was an error in your grade.
 
+Letter grade score ranges:
+
+| A+ | 98 - 100 |
+| -- | ---------|
+| A  | 93 - 97  |
+| -- | -------- |
+| A- | 90 - 92  |
+| -- | -------- |
+| B+ | 87 - 89  |
+| -- | -------- |
+| B  | 83 - 86  |
+| -- | -------- |
+| B- | 80 - 82  |
+| -- | -------- |
+| C+ | 77 - 79  |
+| -- | ---------|
+| C  | 73 - 76  |
+| -- | -------- |
+| C- | 70 - 72  |
+| -- | -------- |
+| D+ | 67 - 69  |
+| -- | -------- |
+| D  | 63 - 66  |
+| -- | -------- |
+| D- | 60 - 62  |
+| -- | -------- |
+| F  | 0 - 59   |
+| -- | -------- |
+
 **Working Together.** You are welcome to discuss the concepts in a homework assignment with
 your fellow classmates. However, **you must develop and write up your solutions entirely on your own**. Do not read
 another person's answers or code, and do not show your answers or code to anyone else. Presenting
