@@ -32,5 +32,5 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 4/22 | [Backpropagation](lectures/L16-Backprop.pdf)  |         | **HW 4 Due**  |
 | Tu 4/27 | Backprop, cont. |         | [HW 5](homeworks/hw5.pdf), Due Fr 5/14<br>[Python code for loading CIFAR-10](homeworks/readCIFAR.py) |
 | Th 4/29 | [Convolution](lectures/L18-Convolution.pdf) |         |  |
-| Tu 5/4 | AutoEncoders <br> Variational AutoEncoders |         |   |
-| Th 5/6 | Support Vector Machine <br>**Quiz 4: SVD through Backprop** |         |   |
+| Tu 5/4 | Convolution, cont. |         |   |
+| Th 5/6 | [AutoEncoders / Variational AutoEncoders](lectures/L19-VAE.pdf) <br>**Quiz 4: SVD through Backprop** |         |   |
