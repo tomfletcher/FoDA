@@ -9,14 +9,14 @@ machine learning, in particular, deep neural networks.
 
 ## Logistics
 
-* **Time:** Tue/Thu 2:00 - 3:15 PM
-* **Location:** Online lectures via Zoom
+* **Time:** Tue/Thu 11:00 AM - 12:15 PM
+* **Location:** Thornton E313 and online via Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
-  - Office Hours: Mondays, 9 - 10 AM
+  - Office Hours: TBA
 * **TA:** Yinzhu Jin
-  - Office Hours: Tuesdays, 4 - 5 PM, Wednesdays 4 - 5 PM
-* **TA:** Stephanie Schoch
-  - Office Hours: Mondays, 2 - 3 PM, Thursdays 11:30 AM - 12:30 PM
+  - Office Hours: TBA
+* **TA:** TBA
+  - Office Hours: TBA
 
 * **Textbook:** Some readings from [Mathematical Foundations for Data Analysis](http://www.cs.utah.edu/~jeffp/M4D/M4D.html), by Jeff Phillips
 * **Prerequisites:** You should be comfortable programming in Python (CS 2110 or equivalent is sufficient)
