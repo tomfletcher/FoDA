@@ -7,7 +7,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Day     | Title / Notes                                                      | Reading         | Homework                                   |
 |---------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
 | Th 1/20 | [Introduction](lectures/L01-Introduction.pdf)                      |                 |                                            |
-| Tu 1/25 | Basic probability                                                  | M4D Chapter 1.1 - 1.2 |                                      |
+| Tu 1/25 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1.1 - 1.2 |                                      |
 | Th 1/27 | Basic probability, cont.                                           |                 |                                            |
 | Tu 2/1  | Conditional Probability                                            | M4D Chapter 1.2 |                                            |
 | Th 2/3  | Bayes' Rule                                                        | M4D 1.6 - 1.8   |                                            |

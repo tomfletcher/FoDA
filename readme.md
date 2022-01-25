@@ -10,7 +10,7 @@ machine learning, in particular, deep neural networks.
 ## Logistics
 
 * **Time:** Tue/Thu 11:00 AM - 12:15 PM
-* **Location:** Thornton E313 and online via Zoom
+* **Location:** Thornton E303 and online via Zoom
 * **Instructor:** Tom Fletcher (ptf8v *AT* virginia *DOT* edu)
   - Office Hours: TBA
 * **TA:** Yinzhu Jin
