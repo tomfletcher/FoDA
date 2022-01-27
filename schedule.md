@@ -8,8 +8,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 |---------|--------------------------------------------------------------------|-----------------|--------------------------------------------|
 | Th 1/20 | [Introduction](lectures/L01-Introduction.pdf)                      |                 |                                            |
 | Tu 1/25 | [Basic probability](lectures/L02-ProbabilityBasics.pdf)            | M4D Chapter 1.1 - 1.2 |                                      |
-| Th 1/27 | Basic probability, cont.                                           |                 |                                            |
-| Tu 2/1  | Conditional Probability                                            | M4D Chapter 1.2 |                                            |
+| Th 1/27 | [Conditional Probability](lectures/L03-ConditionalProbability-slides.pdf) | M4D Chapter 1.2 | [HW 1](homeworks/hw1.pdf), Due Th 2/17                 |
+| Tu 2/1  | Conditional Probability, cont.                                     |                 |                                            |
 | Th 2/3  | Bayes' Rule                                                        | M4D 1.6 - 1.8   |                                            |
 | Tu 2/8  | Classification and Naive Bayes<br>**Quiz 1**                       | [Naive Bayes Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) | |
 | Th 2/10 | Naive Bayes, cont.                                                 |                 |                                            |
