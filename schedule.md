@@ -11,8 +11,8 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 1/27 | [Conditional Probability](lectures/L03-ConditionalProbability-slides.pdf) | M4D Chapter 1.2 | [HW 1](homeworks/hw1.pdf), Due Th 2/17<br>[hippocampus data](homeworks/OASIS-hippocampus.csv) |
 | Tu 2/1  | Conditional Probability, cont.<br>[ExampleSolutions.ipynb](homeworks/ExampleSolutions.ipynb) |      |                             |
 | Th 2/3  | [Bayes' Rule](lectures/L04-BayesRule.pdf)                          | M4D 1.6 - 1.8   |                                            |
-| Tu 2/8  | Classification and Naive Bayes<br>**Quiz 1**                       | [Naive Bayes Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) | |
-| Th 2/10 | Naive Bayes, cont.                                                 |                 |                                            |
+| Tu 2/8  | [Classification and Naive Bayes](lectures/L05-NaiveBayes.pdf)<br>[Probability Cheat Sheet!](lectures/ProbabilityCheatSheet.pdf) | [Naive Bayes Wikipedia](https://en.wikipedia.org/wiki/Naive_Bayes_classifier) | |
+| Th 2/10 | Naive Bayes, cont.<br>**Quiz 1**                                   |                 |                                            |
 | Tu 2/15 | Linear Algebra Basics: Vectors | M4D Chapter 3<br>Extra: [UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16 |   |
 | Th 2/17 | K-means Clustering, Nearest Neighbor | M4D Chapter 8.1 - 8.3<br>Extra: M4D Chapter 4 |  |
 | Tu 2/22 | Maximum Likelihood Estimation |  |  |
