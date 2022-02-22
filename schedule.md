@@ -15,7 +15,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/10 | Naive Bayes, cont.<br>[SimpleDataPlots.ipynb](examples/SimpleDataPlots.ipynb)<br>**Quiz 1**                                   |                 |                                            |
 | Tu 2/15 | [Linear Algebra Basics: Vectors](lectures/L06-Vectors.pdf) | M4D Chapter 3<br>Extra: [UCD Notes](https://www.math.ucdavis.edu/~linear/linear.pdf), Sec 5, 15, 16 |   |
 | Th 2/17 | [K-means Clustering, Nearest Neighbor](lectures/L07-Clustering.pdf) | M4D Chapter 8.1 - 8.3<br>Extra: M4D Chapter 4 |  |
-| Tu 2/22 | Maximum Likelihood Estimation |  | **HW 1 Due** |
+| Tu 2/22 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf)|  | **HW 1 Due** |
 | Th 2/24 | Hypothesis Testing: Fisher Exact Test | Extra: [How vaccine trials work](https://medium.com/swlh/the-fascinating-math-powering-the-covid-19-vaccine-trials-930a5e97c9c9) | |
 | Tu 3/1  | Linear Regression | M4D Section 5.1  |    |
 | Th 3/3  | Linear Algebra Basics: Matrices<br>**Quiz 2** |         |   | 
