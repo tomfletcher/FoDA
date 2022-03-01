@@ -17,7 +17,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/17 | [K-means Clustering, Nearest Neighbor](lectures/L07-Clustering.pdf) | M4D Chapter 8.1 - 8.3<br>Extra: M4D Chapter 4 |  |
 | Tu 2/22 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf)|  | **HW 1 Due** |
 | Th 2/24 | [Bayesian Estimation](lectures/L09-BayesianEstimation.pdf) | | |
-| Tu 3/1  | Hypothesis Testing: Fisher Exact Test | Extra: [How vaccine trials work](https://medium.com/swlh/the-fascinating-math-powering-the-covid-19-vaccine-trials-930a5e97c9c9) | |
+| Tu 3/1  | [Hypothesis Testing: Fisher Exact Test](lectures/L10-HypothesisTesting-FisherTest.pdf) | Extra: [How vaccine trials work](https://medium.com/swlh/the-fascinating-math-powering-the-covid-19-vaccine-trials-930a5e97c9c9) | [HW 2](homeworks/hw2.pdf), Due Tu 3/22<br>[traffic.csv](homeworks/traffic.csv)<br>[cardiac.csv](homeworks/cardiac.csv)|
 | Th 3/3  | Linear Regression<br> | M4D Section 5.1  |    |
 | Tu 3/8  | *Spring Break -- no class* | | |
 | Th 3/10 | *Spring Break -- no class* | | |
