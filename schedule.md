@@ -17,14 +17,14 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Th 2/17 | [K-means Clustering, Nearest Neighbor](lectures/L07-Clustering.pdf) | M4D Chapter 8.1 - 8.3<br>Extra: M4D Chapter 4 |  |
 | Tu 2/22 | [Maximum Likelihood Estimation](lectures/L08-MaximumLikelihoodEstimation.pdf)|  | **HW 1 Due** |
 | Th 2/24 | [Bayesian Estimation](lectures/L09-BayesianEstimation.pdf) | | |
-| Tu 3/1  | [Hypothesis Testing: Fisher Exact Test](lectures/L10-HypothesisTesting-FisherTest.pdf) | Extra: [How vaccine trials work](https://medium.com/swlh/the-fascinating-math-powering-the-covid-19-vaccine-trials-930a5e97c9c9) | [HW 2](homeworks/hw2.pdf), Due Tu 3/22<br>[traffic.csv](homeworks/traffic.csv)<br>[cardiac.csv](homeworks/cardiac.csv)|
+| Tu 3/1  | [Hypothesis Testing: Fisher Exact Test](lectures/L10-HypothesisTesting-FisherTest.pdf) | Extra: [How vaccine trials work](https://medium.com/swlh/the-fascinating-math-powering-the-covid-19-vaccine-trials-930a5e97c9c9) | [HW 2](homeworks/hw2.pdf), Due Th 3/24<br>[traffic.csv](homeworks/traffic.csv)<br>[cardiac.csv](homeworks/cardiac.csv)|
 | Th 3/3  | [Linear Regression](lectures/L11-LinearRegression.pdf) | M4D Section 5.1  |    |
 | Tu 3/8  | *Spring Break -- no class* | | |
 | Th 3/10 | *Spring Break -- no class* | | |
-| Tu 3/15 | Linear Algebra Basics: Matrices |         |   | 
+| Tu 3/15 | [Linear Algebra Basics: Matrices](lectures/L12-Matrices.pdf) |         |   | 
 | Th 3/17 | Multiple Linear Regression <br>**Quiz 2** |   |  |
-| Tu 3/22 | Multiple Linear Regression cont. |         | **HW 2 Due** |
-| Th 3/24 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | |
+| Tu 3/22 | Multiple Linear Regression cont. |         |  |
+| Th 3/24 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | **HW 2 Due** |
 | Tu 3/29 | Principal Component Analysis | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
 | Th 3/31 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |  |
 | Tu 4/5  | Logistic Regression | [Logistic Regression on Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression) |  |
