@@ -22,7 +22,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/8  | *Spring Break -- no class* | | |
 | Th 3/10 | *Spring Break -- no class* | | |
 | Tu 3/15 | [Linear Algebra Basics: Matrices](lectures/L12-Matrices.pdf) |         |   | 
-| Th 3/17 | Multiple Linear Regression <br>**Quiz 2** |   |  |
+| Th 3/17 | Multiple Linear Regression <br>[MultipleLinearRegression.ipynb](examples/MultipleLinearRegression.ipynb)<br>**Quiz 2** |   |  |
 | Tu 3/22 | Multiple Linear Regression cont. |         |  |
 | Th 3/24 | Singular Value Decomposition (SVD) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | **HW 2 Due** |
 | Tu 3/29 | Principal Component Analysis | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
