@@ -26,10 +26,10 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/22 | Multiple Linear Regression cont. |         |  |
 | Th 3/24 | [Singular Value Decomposition (SVD)](lectures/L13-SVD.pdf)<br>[SVD.ipynb](examples/SVD.ipynb) | M4D Chapter 7 (through 7.2)<br>[Wikipedia](https://en.wikipedia.org/wiki/Singular_value_decomposition) | [HW 3](homeworks/hw3.pdf), Due Th 4/7<br>[life_expectancy.csv](homeworks/life_expectancy.csv)<br>**HW 2 Due** |
 | Tu 3/29 | [Principal Component Analysis](lectures/L14-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
-| Th 3/31 | Canonical Correlation Analysis | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |  |
+| Th 3/31 | [Canonical Correlation Analysis](lectures/L15-CCA.pdf)<br>[CCA.ipynb](examples/CCA.ipynb) | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |  |
 | Tu 4/5  | Logistic Regression | [Logistic Regression on Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression) |  |
-| Th 4/7  | Logistic Regression, cont.<br>**Quiz 3** |         | **HW 3 Due** |
-| Tu 4/12 | Intro to Neural Networks: Perceptron | M4D Chapter 9 - 9.2  |        |
+| Th 4/7  | Logistic Regression, cont. |         | **HW 3 Due** |
+| Tu 4/12 | Intro to Neural Networks: Perceptron<br>**Quiz 3** | M4D Chapter 9 - 9.2  |        |
 | Th 4/14 | Backpropagation  |         |   |
 | Tu 4/19 | Backprop, cont. |         |  |
 | Th 4/21 | Convolution |         |  |
