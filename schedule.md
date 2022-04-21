@@ -32,7 +32,7 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 4/12 | [Intro to Neural Networks: Perceptron](lectures/L17-Perceptron.pdf)<br>**Quiz 3** | M4D Chapter 9 - 9.2  |        |
 | Th 4/14 | [Backpropagation](lectures/L18-Backprop.pdf)  |         |   |
 | Tu 4/19 | [Convolution](lectures/L19-Convolution.pdf) |         |  |
-| Th 4/21 | Convolution, cont. |         | **HW 4 Due**  |
+| Th 4/21 | Convolution, cont. |         | [HW 5](homeworks/hw5.pdf), Due Wed 5/12<br>**HW 4 Due**  |
 | Tu 4/26 | Generative Models |         |   |
 | Th 4/28 | AutoEncoders / Variational AutoEncoders |         |   |
 | Tu 5/3  | TBA<br>**Quiz 4** |         |   |
