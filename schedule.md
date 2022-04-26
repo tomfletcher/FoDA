@@ -28,11 +28,11 @@ Download this: [Guide to Math Notation in Jupyter](examples/MathNotationGuide.ip
 | Tu 3/29 | [Principal Component Analysis](lectures/L14-PCA.pdf) | M4D Finish Chapter 7<br>[PCA on Wikipedia](https://en.wikipedia.org/wiki/Principal_component_analysis) |  |
 | Th 3/31 | [Canonical Correlation Analysis](lectures/L15-CCA.pdf)<br>[CCA.ipynb](examples/CCA.ipynb) | [CCA on Wikipedia](https://en.wikipedia.org/wiki/Canonical_correlation) |  |
 | Tu 4/5  | [Logistic Regression](lectures/L16-LogisticRegression.pdf) | [Logistic Regression on Wikipedia](https://en.wikipedia.org/wiki/Logistic_regression) |  |
-| Th 4/7  | Logistic Regression, cont. |         | [HW 4](homeworks/hw4.pdf), Due Th 4/21<br>[all-hands.dat](homeworks/all-hands.dat)<br>**HW 3 Due** |
+| Th 4/7  | [Logistic Regression, cont.](lectures/L16-LogisticRegression2.pdf) |         | [HW 4](homeworks/hw4.pdf), Due Th 4/21<br>[all-hands.dat](homeworks/all-hands.dat)<br>**HW 3 Due** |
 | Tu 4/12 | [Intro to Neural Networks: Perceptron](lectures/L17-Perceptron.pdf)<br>**Quiz 3** | M4D Chapter 9 - 9.2  |        |
 | Th 4/14 | [Backpropagation](lectures/L18-Backprop.pdf)  |         |   |
 | Tu 4/19 | [Convolution](lectures/L19-Convolution.pdf) |         |  |
 | Th 4/21 | Convolution, cont. |         | [HW 5](homeworks/hw5.pdf), Due Wed 5/11<br>**HW 4 Due**  |
-| Tu 4/26 | Generative Models |         |   |
+| Tu 4/26 | [Generative Models](lectures/L20-GenerativeModels.pdf) |         |   |
 | Th 4/28 | AutoEncoders / Variational AutoEncoders |         |   |
 | Tu 5/3  | TBA<br>**Quiz 4** |         |   |
